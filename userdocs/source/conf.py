@@ -285,3 +285,11 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+#-------------------------------------------------GLOBAL SUBSTITUTION---------------------------------------------
+rst_epilog = """
+.. |support| image:: /img/c-ads_userdocs_support_icon_v02.png
+.. _support: https://help.cityads.com/hc/ru/requests/new
+.. |br| raw:: html
+   <br />
+"""
