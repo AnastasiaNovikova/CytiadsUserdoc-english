@@ -1,10 +1,7 @@
 Welcome
-=======================================================
+========
 
-Nothing is here
+We are working on bringing you new content soon. Thanks for your patience.
 
-Indices and tables
-==================
 
-* :ref:`search`
 
