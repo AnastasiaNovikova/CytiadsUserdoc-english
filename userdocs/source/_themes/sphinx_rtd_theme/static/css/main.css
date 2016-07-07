@@ -33,6 +33,96 @@
   	font-weight: 900;
   	font-style: normal;
   }
+    @font-face {
+  	font-family: Adelle;
+  	src: url("../fonts/DIN Serif/PFDINSerifRegular.woff2") format("woff2"),
+  	     url("../fonts/DIN Serif/PFDINSerifRegular.woff") format("woff");
+  	font-weight: 400;
+  	font-style: normal;
+  }
+    @font-face {
+  	font-family: Adelle;
+  	src: url("../fonts/DIN Serif/PFDINSerifRegularItalic.woff2") format("woff2"),
+  	     url("../fonts/DIN Serif/PFDINSerifRegularItalic.woff") format("woff");
+  	font-weight: 400;
+  	font-style: italic;
+  }
+  @font-face {
+  	font-family: Roboto;
+  	src: url("../fonts/roboto/Roboto-Medium.woff2") format("woff2"),
+  	     url("../fonts/roboto/Roboto-Medium.woff") format("woff");
+  	font-weight: 900;
+  	font-style: normal;
+  }
+  .download--htmlzip {
+    background: url(../images/save--blue.png) no-repeat;
+    padding: 6px 27px 10px;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 23px;
+    font-size: 12px;
+    margin-left: 32px;
+}
+  .content-top-shadow + .section > h1:first-child{
+	margin-top: -11px;
+}
+.std-term {
+    font: 12px/20px DINWebPro;
+    color: #26A69A;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+  .section{
+  	font-family: Adelle;
+  	font-size: 14px;
+  }
+  .rst-content .reference.internal{
+  	font-family: Adelle;
+  	color: #212121;
+  }
+  .menuselection{
+  	font: 15px/20px DINWebPro;
+  	color: #8a8a8a;
+  }
+  .content-top-shadow{
+  box-shadow: 0 2px 4px rgba(0,0,0,.2);	
+  }
+  .rst-content > .section,
+  .rst-content > #search-results{
+  	background: #fff;
+  	color: #212121;
+        padding: 32px;
+        margin-bottom: 16px;
+        box-shadow: 0 2px 4px rgba(0,0,0,.2);
+  }
+  .page__button{
+  	float: right;
+  	text-align: right;
+  	width: 50%;
+  }
+  .page__button > a{
+  	font-size: 14px;
+  	font-family: Roboto;
+  	text-transform: uppercase;
+  	color: #009688;
+  	text-decoration: none;
+  	padding: 12px 27px;
+  	display: inline-block;
+  }
+  .page__button--top{
+  	margin: 17px 32px 0 0;
+  }
+  .page__button--top > a:hover{
+  	opacity: .26;
+  }
+  .page__button--bottom{
+  	    margin: 16px 0 32px;
+  }
+  .page__button--bottom > a:hover{
+  	background: #e0e0e0;
+  }
 html, body{
 	padding: 0;
 	margin: 0;
@@ -45,9 +135,9 @@ a {
     color: #26a69a;
 }
 .header{
-	background: #fff;
+	background: #4db6ac;
 	box-shadow: 0 1px 6px #cbcbcb;
-	padding: 28px 16px;
+	padding: 28px 16px 24px;
 	position: relative;
 	margin-bottom: 16px;
 	position: fixed;
@@ -56,6 +146,9 @@ a {
 	right: 0;
 	z-index: 2;
 }
+.header__logo__link{
+	display: inline-block;
+}
 .header__logo,
 .header__title{
 	display: inline-block;
@@ -63,29 +156,27 @@ a {
 }
 .header__title{
 	display: none;
-	margin: 1px 0 0 25px;
+	margin: 2px 0 0 25px;
 	font-size: 14px;
 }
 
 .header__search{
-    max-width: 720px;
-    margin: 0 auto;
+    max-width: 928px;
     position: absolute;
     left: 190px;
     right: 80px;
-    top: 24px;
+    top: 21px;
     bottom: 24px;
     padding-top: 7px;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid rgba(255,255,255,.54);
 }
 .header__search:before{
 	content: '';
 	float: left;
-	width: 18px;
-	height: 18px;
+	width: 19px;
+	height: 19px;
 	margin-left: -30px;
-	background: url(../images/sprite.png) -12px 0 no-repeat;
-	opacity: .26;
+	background: url(../images/icon-search.gif) 0 0 no-repeat;
 }
 .header__search__input{
 	width: 100%;
@@ -94,13 +185,21 @@ a {
 	background: 0;
 	font: 16px/1 DINWebPro, arial, sans-serif;
 	outline: 0;
+  color: rgba(255,255,255,.54) !important;
 }
+.header__search__input::-webkit-input-placeholder {color: rgba(255,255,255,.54);}
+.header__search__input::-moz-placeholder          {color: rgba(255,255,255,.54);}/* Firefox 19+ */
+.header__search__input:-moz-placeholder           {color: rgba(255,255,255,.54);}/* Firefox 18- */
+.header__search__input:-ms-input-placeholder      {color: rgba(255,255,255,.54);}
+
 .menu{
+  background: #fafafa;
 width: 251px;
     font-size: 14px;
     line-height: 1.2;
     border-bottom: 1px solid #d9d9d9;
-    top: 84px;
+    border-right: 1px solid #d9d9d9;
+    top: 79px;
     bottom: 0;
     overflow: hidden;
     position: fixed;
@@ -141,18 +240,12 @@ width: 251px;
 	background: #e6e6e6;
 }
 .menu a.current{
-	background: #dedede;
+	background: #cfd8dc;
 	color: #000;
 	font-weight: 500;
 }
 .menu li li a{
 	padding: 4px 32px;
-}
-.toctree-l3 a{
-	padding-left: 48px !important;
-}
-.toctree-l4 a {
-    padding-left: 64px !important;
 }
 .toctree-expand{
 	position: absolute;
@@ -177,6 +270,10 @@ width: 251px;
 .menu ul li ul {
     display: none;
 }
+.menu .toctree-l3,
+.menu .toctree-l4{
+	display: none;
+}
 .wy-side-scroll{
   overflow: auto;
   overflow-y: scroll;
@@ -188,7 +285,7 @@ th.head {
     vertical-align: top;
 }
 .content{
-  margin: 114px 16px 0 16px;
+  margin: 98px 0 0 16px;
 }
 .content ol{
 	position: relative;
@@ -254,31 +351,36 @@ th.head {
 .content ol[start="1"]{
 	counter-reset: list 0;
 }
-.content ol li {
+.content ol > li {
 	list-style: none !important;
 	margin-left: 32px !important;
+	margin-bottom: 8px;
 }
-.content ol li:before {
+.content ol > li:before {
     counter-increment: list;
     content: counter(list, decimal-leading-zero);
     color: #26a69a;
     padding-right: 9px;
     position: absolute;
     left: 0;
+    font-size: 14px;
+    font-family: DINWebPro;
+    line-height: 23px;
 }
 
-.content ol li > ol{
+.content ol > li > ol{
 	counter-reset: list2;
 }
-.content ol li > ol li{
+.content ol > li > ol > li{
 	margin-left: 56px !important;
 }
-.content ol li > ol li:before{
+.content ol > li > ol > li:before{
 	counter-increment: list2;
 	content: counter(list, decimal-leading-zero) '.' counter(list2, decimal-leading-zero);
 	color: #8a8a8a;
 	font-size: 12px;
 	margin-top: 1px;
+	line-height: 20px;
 }
 .content ul{
 	position: relative;
@@ -294,20 +396,25 @@ th.head {
 .content ul li {
     list-style: none !important;
     margin-left: 32px !important;
+    margin-bottom: 8px;
+}
+.content .admonition ul li{
+	margin-bottom: 0;
 }
 .rst-content{
-	max-width: 720px;
-	margin: 0 auto;
+	max-width: 992px;
 }
 .figure{
 	clear: both;
 }
 .admonition{
 	float: right;
-	width: 50%;
+	width: 34.4%;
 	clear: both;
+	margin-left: 32px;
 	background: #fff !important;
 	color: #8a8a8a;
+	font-family: DINWebPro;
 }
 .admonition.tip,
 .admonition.hint{
@@ -322,6 +429,9 @@ th.head {
 .admonition-title {
     display: none !important;
 }
+.admonition b, .admonition strong, .admonition a{
+	color: #8a8a8a !important;
+}
 @media (min-width: 700px) {
   .menu{
     display: block;
@@ -329,18 +439,21 @@ th.head {
   .content{
   	margin-left: 284px;
   }
-  .header__title{
-  	display: inline-block;
-  }
+  .header__title {
+    display: inline-block;
+    color: rgba(255,255,255,0.8);
+    text-transform: uppercase;
+}
   .header__search{
   	left: 348px;
   }
 }
 
 .navigation-path{
-	font-size: 12px;
-	color: #e9e9e9;
-	margin-bottom: 18px;
+font-size: 12px;
+    color: #e9e9e9;
+    background: #fff;
+    padding: 28px 32px 0;
 }
 a.navigation-path__item{
 	text-decoration: none;
@@ -357,17 +470,21 @@ span.navigation-path__item{
       margin-top: 2px;
       float: right;
       position: relative;
+      text-transform: uppercase;
+    }
+    .header__tools label{
+    	color: #fff;
     }
     .dropdown__button{
       margin-top: -3px;
-      width: 6px;
-      height: 6px;
-      background: #f2f2f2 url(../images/sprite.png) -32px 2px no-repeat;
-      display: inline-block;
-      vertical-align: middle;
-      border: 9px solid #f2f2f2;
-      cursor: pointer;
-      box-sizing: content-box;
+    width: 6px;
+    height: 6px;
+    background: transparent url(../images/sprite.png) -32px 2px no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    border: 9px solid #4db6ac;
+    cursor: pointer;
+    box-sizing: content-box;
     }
     .dropdown__menu{
       position: absolute;
@@ -380,8 +497,12 @@ span.navigation-path__item{
       position: absolute;
       clip: rect(0,0,0,0);
     }
-    .dropdown__checkbox:checked ~ .dropdown__menu{
-      display: block;
+    .dropdown__checkbox:focus ~ .dropdown__menu{
+        display: block;
+        background: #fff;
+    	padding: 0 16px 8px 8px;
+    	margin-right: -16px;
+    	box-shadow: 0 2px 4px rgba(0,0,0,.2);
     }
 
     .dropdown__menu{
@@ -455,7 +576,8 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: bold;
+font-family: DINWebPro;
+    font-weight: 500;
     color: #212121;
     font-size: 15px;
 }
@@ -540,7 +662,7 @@ li {
 }
 
 dd {
-    margin: 0
+    margin: 0 0 19px 0;
 }
 
 img {
@@ -3366,8 +3488,8 @@ a .icon {
 .rst-content .warning,
 .rst-content .seealso,
 .rst-content .admonition-todo {
-    padding: 12px;
-    line-height: 24px;
+    padding: 0 12px;
+    line-height: 20px;
     margin-bottom: 24px;
     background: #e7f2fa
 }
@@ -4756,7 +4878,8 @@ input[type="checkbox"][disabled] {
 .wy-table thead th,
 .rst-content table.docutils thead th,
 .rst-content table.field-list thead th {
-    font-weight: bold;
+    font-weight: 500;
+    font-family: DINWebPro;
     border-bottom: solid 2px #e1e4e5
 }
 
@@ -4869,7 +4992,7 @@ input[type="checkbox"][disabled] {
 }
 .wy-table-responsive th,
 .wy-table-responsive td{
-	padding: 16px;
+	padding: 8px;
 }
 .wy-text-left {
     text-align: left
@@ -4961,6 +5084,7 @@ p {
 
 h1 {
 	font-size: 32px;
+	font-family: DINWebPro;
 	font-weight: normal;
 	line-height: 36px;
 	margin-bottom: 16px;
@@ -4970,23 +5094,29 @@ h1 {
 h2,
 .rst-content .toctree-wrapper p.caption {
     	font-size: 24px;
+    	font-family: DINWebPro;
 	font-weight: normal;
 	line-height: 28px;
 	margin-bottom: 16px;
+	color: #000;
 }
 
 h3 {
     	font-size: 20px;
+    	font-family: DINWebPro;
 	font-weight: normal;
 	line-height: 24px;
 	margin-bottom: 16px;
+	color: #000;
 }
 
 h4 {
     font-size: 16px;
-    font-weight: normal;
+    font-family: DINWebPro;
+    font-weight: 500;
     line-height: 20px;
 margin-bottom: 16px;
+color: #000;
 }
 
 h5 {
@@ -5030,7 +5160,7 @@ code.code-large,
 .rst-content .toctree-wrapper ul,
 article ul {
     list-style: disc;
-    line-height: 24px;
+    line-height: 20px;
     margin-bottom: 24px
 }
 
@@ -5082,7 +5212,7 @@ article ul li ol li {
 .rst-content ol.arabic,
 article ol {
     list-style: decimal;
-    line-height: 24px;
+    line-height: 20px;
     margin-bottom: 24px
 }
 
@@ -5771,7 +5901,7 @@ div[class^='highlight'] pre {
 }
 
 footer {
-    color: #999
+    max-width: 992px;
 }
 
 footer p {
@@ -5824,7 +5954,7 @@ footer span.commit .rst-content tt,
 }
 
 #search-results .context {
-    font-size: 90%
+    font: 14px/20px Adelle;
 }
 
 @media screen and (max-width: 768px) {
@@ -6054,12 +6184,16 @@ footer span.commit .rst-content tt,
 .rst-content img {
     max-width: 100%;
     height: auto !important
+    
 }
 
 .rst-content div.figure {
-    margin-bottom: 24px
+    margin-bottom: 24px;
+    background: #e5e5e5;
 }
-
+.rst-content div.figure img{
+    opacity: .8;
+}
 .rst-content div.figure p.caption {
     font-style: italic
 }
@@ -6075,7 +6209,7 @@ footer span.commit .rst-content tt,
 
 .rst-content blockquote {
     margin-left: 24px;
-    line-height: 24px;
+    line-height: 20px;
     margin-bottom: 24px
 }
 
@@ -6217,13 +6351,18 @@ footer span.commit .rst-content tt,
     font-size: 100%
 }
 
-.rst-content .highlighted {
-    background: #F1C40F;
+.rst-content .highlighted,
+.rst-content .guilabel{     
+background: #80cbc4;
     display: inline-block;
-    font-weight: bold;
-    padding: 0 6px
+    font-weight: 500;
+    padding: 0px 6px;
+    margin-top: -2px;
+    font-family: DINWebPro;
 }
-
+.rst-content .guilabel{
+	color: #fff;
+}
 .rst-content .footnote-reference,
 .rst-content .citation-reference {
     vertical-align: super;
@@ -6331,6 +6470,9 @@ a .rst-content code {
 .rst-content dl dt {
     color: #26A69A;
     text-transform: uppercase;
+    font: 12px/20px DINWebPro;
+    font-weight: 500;
+    margin-bottom: 3px;
 }
 
 .rst-content dl p,
@@ -6433,7 +6575,8 @@ a .rst-content code {
 
 .rst-content p.rubric {
     margin-bottom: 12px;
-    font-weight: bold
+    font: 20px/24px DINWebPro;
+    color: #000;
 }
 
 .rst-content tt.download,

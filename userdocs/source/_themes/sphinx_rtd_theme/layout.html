@@ -80,7 +80,7 @@
 <body role="document">
 
   <div class="header">
-  <a href="{{ pathto(master_doc) }}"><img class="header__logo" src="https://cityads.com/main/wp-content/themes/swell-lite/images/lask/cityads-dark.png" alt=""></a>
+  <a class="header__logo__link" href="{{ pathto(master_doc) }}"><img class="header__logo" src="{{ pathto('_static/images/cityads-logo.png', 1) }}" alt=""></a>
     <div class="header__title">{{ project }}</div>
     <div class="header__search">
       <!-- <input class="header__search__input" type="text" placeholder="Search"> -->
@@ -102,10 +102,12 @@
   </div>
   <div class="content">
   	<div class="rst-content">
-	    {% include "breadcrumbs.html" %}
-	    {% block body %}{% endblock %}
-	    {% include "footer.html" %}
+  		<div class="content-top-shadow">
+	    		{% include "breadcrumbs.html" %}
+	    	</div>	
+		{% block body %}{% endblock %}
 	</div>
+	{% include "footer.html" %}
     <!--
     <div class="navigation-path">
       <a href="" class="navigation-path__item">docs</a> | <span class="navigation-path__item">Добро пожаловать в документацию вебмастера</span>
@@ -151,11 +153,22 @@
       	}
       	
         window.addEventListener("hashchange", hashChange);
-        window.addEventListener('resize', reposition);
+        //window.addEventListener('resize', reposition);
         
         hashChange();
-        setTimeout(reposition);
+        //setTimeout(reposition);
         SphinxRtdTheme.StickyNav.enable();
+        
+        Array.prototype.filter.call(document.links, function(item){
+		if(item.href == location.href){
+			item.scrollIntoView()
+		}
+	});
+	
+	document.querySelector('.dropdown__menu').addEventListener('mousedown', function(e){
+		e.preventDefault();
+	});
+
       });
   </script>
 </body>

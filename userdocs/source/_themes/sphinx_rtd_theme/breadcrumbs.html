@@ -6,6 +6,12 @@
 {% set suffix = source_suffix %}
 {% endif %}
 
+  {% if next or prev %}
+    <div class="page__button page__button--top" role="navigation" aria-label="navigation">
+      {% include "page-buttons.html" %}
+    </div>
+  {% endif %}
+  
 <div class="navigation-path">
 	<a href="{{ pathto(master_doc) }}" class="navigation-path__item">Docs</a> |
 	{% for doc in parents %}
@@ -15,3 +21,5 @@
 	<span class="navigation-path__item">{{ title }}</span>
 	{% endif %}
 </div>
+
+
