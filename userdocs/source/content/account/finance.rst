@@ -86,3 +86,5 @@ Now let's see what happens with a PayPal or bank transfer application in :menuse
 
 
 .. |bracket| image: ../../img/account/finance/bracket.png
+
+Sadly, there are times when the recipient system will decline the transfer, due to various reasons. Should this be the case, the relevant operation in :menuselection:`Office | Finance and payments | Accruals and payments | All account transactions` table will be marked as **Cancelled**, and the funds will be returned to your internal account. Don't panic and contact tech support |support|_. Our experts will help you figure out the problem and quickly solve it.
