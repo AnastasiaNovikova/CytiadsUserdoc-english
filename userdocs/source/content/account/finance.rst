@@ -48,7 +48,7 @@ All payments made through our system go through several stages before reaching y
 
 .. seealso::Statuses for PayPal and bank transfers and their descriptions are :ref:`below <bank-payout-label>`.
 
-.. rubric::Payments to Webmoney and Yandex.Money
+.. rubric:: Payments to WebMoney and Yandex.Money
 
 These payments go through three positive statuses:
 
