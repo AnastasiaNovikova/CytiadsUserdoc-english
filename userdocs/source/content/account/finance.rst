@@ -74,7 +74,7 @@ PayPal or bank transfers are more complicated, as they require the publisher to 
 Now let's see what happens with a PayPal or bank transfer application in :menuselection:`Office | Finance and payments | Accruals and payments | All account transactions`:
 
 #. First status is **New**: the transfer application is created within the system.
-#. Next, the application status will change to **Document required**. A new button will be enabled in the **All account transactions** table: |bracket|. It is used to upload documents. This status requires actions from the publisher and expires in 10 days.
+#. Next, the application status will change to **Document required**. A new button will be enabled in the **All account transactions** table: |bracket| . It is used to upload documents. This status requires actions from the publisher and expires in 10 days.
 #. As soon as the invoices are provided, the status will change to Document check. This means that the documents are being reviewed by our managers.
 #. The application status may change back to **Document required** if the documents provided are insufficient. You can find out what was missing or incorrect in your documents by checking the comment to the status.
 #. After the documents are verified, application status will change to **On Payment**, and later to **Paid**. This status shows that the process is complete, the money is on your external account, and everything went according to plan.
