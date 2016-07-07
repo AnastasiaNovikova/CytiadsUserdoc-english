@@ -1,38 +1,88 @@
 =====================
-Финансовая информация
+Finantial Information
 =====================
 
-****************
-Внутренний счет
-****************
+.. _payout-label:
 
-После регистрации в системе для каждого вебмастера создается внутренний счет, на котором хранится вся информация о движении денег этого вебмастера в системе. Именно на внутренний счет поступают заработанные деньги, и с него заработанные деньги выводятся на внешние счета.
+********
+Payments
+********
 
-.. figure:: ../../img/account/internal_acc.png
-       :scale: 100 %
-       :align: center
-       :alt: внутренний счет
+Payments to publishers' external accounts are made in according to the payment schedule. To be eligible to withdraw their earnings from the system, a publisher must:
 
-У внутреннего счета есть свойства:
+.. tip:: If the hold time is beyond reasonable (i.e. 14,999 days), the payment is probably under revision and is frozen for the duration. Don't panic: if your traffic is clean, you can easily resolve the issue with tech support.
 
-#. **Валюта**, в которой система начисляет деньги на внутренний счет.
-#. **Холд** – индивидуальная настройка, время, в течение которого деньги нельзя вывести. Система проводит проверку траффика.
-#. **График выплат**. Узнать график выплат можно в разделе **Офис-Финансы и выплаты-Начисления и выплаты**.
+#. Have an External account to transfer the money to.
+#. Earn more than the minimum withdrawal amount.
+#. Not be banned. This means providing clean honest traffic that our QA experts won't find suspicious.
 
-************************
-Путь от клика до выплаты
-************************
+.. _min-payout-label:
 
-Итак, если вы начали лить траффик на оффер, то это еще ничего не значит. Вернее, это не значит, что завтра вы получите выплаты за лиды. Все потому, что процесс контроля за кликами-лидами-действиями не простой. Чтобы гарантировать качество в нашей системе применяется вот такая схема работы с выплатами: 
+Minimum withdrawal
+==================
 
-.. figure:: ../../img/account/money_lifecycle.PNG
-       :scale: 100 %
-       :align: center
-       :alt: внутренний счет
+By agreeing to work with us, publisher accepts, among other things, the condition of minimum withdrawal. Minimum withdrawal amount is the minimum amount we will transfer to external accounts.
 
-1.	Для начала вебмастер публикует ссылки на своих ресурсах. В **Cтатистике** пока ничего нет. Просто посетители еще не успели заметить рекламные объявления и, соответственно, не кликнули на него.
-2.	**Статистика** оживилась, значит, посетители уже во всю просматривают рекламу и совершают какие-то действия. В общем, на этом этапе траффик по офферу у некоторого вебмастера уже есть. Но пока еще нет ни одного **Подтверждённого** лида или цели, есть только **Открытые**. Все потому, что технически мы можем представлять данные о лидах или целях в режиме «реального времени», а вот проверка этих цифр еще не прошла. То есть эти **Открытые** лиды не подтверждены со стороны рекламодателя.
-3.	**Время одобрения**. Рекламодатель проверяет лиды и цели, все ли было достигнуто и насколько хорошо достигнуто. Примеры некачественных лидов сплошь и рядом: анкета, которую заполнили наполовину или заполнили абракадаброй. Действия, которые рекламодатель отклонит, тоже случаются: например, покупатель отменил доставку товара и ничего не купил, хотя заказал. 
-4.	**Время оплаты**. Рекламодатель передает нам все свои сверки-проверки и теперь мы можем узнать, какие цели стали Одобренными, а какие - **Отклонёнными**. После проверки рекламодателем лиды и действия переходят из статуса **Oткрытые** в **Oдобренные** (ну или в **Oтклоненные**, если что-то пошла не так). И только после всего предыдущего мы начинаем рассчитываться с рекламодателем. Теперь рекламодатель перечисляет деньги за все одобренные цели, а на внутреннем счете вебмастера появляются заработанные деньги.
-5.	**Холд системы**. Получив данные от рекламодателя, мы начинаем активно работать с этой информацией. Мы проверяем траффик на фрод, это наша задача, которую мы выполняем тщательно.
-6.	И вот, долгожданная дата выплаты. После всех страданий и ожиданий, вебмастер получает выплату. Эта радость происходит по *графику выплат*, а деньги перечисляются на внешний **Основной** счет, который завел вебмастер.
+.. csv-table::
+   :widths: 5, 5
+   
+   "Bank transfer", "Any currency: the equivalent of $300"
+   "Bank transfer if the publisher is registered in Brazil", "Any currency: the equivalent of 300 BRL"
+   "Bank transfer if the publisher is registered in Mexico", "Any currency: the equivalent of 1000 MXN"
+   "Other types of transfers", "Any currency: the equivalent of $30"
+
+If there is not enough money on the internal account to transfer, the funds will remain on the internal account.
+
+Note that external systems may have limitations for transfer amounts as well. Please familiarize yourself with them:
+
+* `Yandex.Money <https://money.yandex.ru/doc.xml?id=523014&ncrnd=4224>`_
+* `WebMoney <https://wiki.wmtransfer.com/projects/webmoney/wiki/WebMoney_Keeper_Standard_financial_restrictions>`_
+* PayPal
+
+.. _payment-status-label:
+
+Payment statuses
+================
+
+All payments made through our system go through several stages before reaching your external account. These stages are called Statuses, and each payment in Office | Finance and payments | Accruals and payments | All account transactions table has one.
+
+.. seealso::Statuses for PayPal and bank transfers and their descriptions are :ref:`below <bank-payout-label>`.
+
+.. rubric::Payments to Webmoney and Yandex.Money
+
+These payments go through three positive statuses:
+
+#.	**New**. This represents that we have just recently created the withdrawal application and prepared the funds.
+#.	**On Payment**. This means that the transfer process for this application is under way, but the recipient system did not confirm the transfer just yet.
+#.	**Paid**. This status shows that the process is complete, the money is on your external account, and everything went according to plan.
+
+.. image:: ../../img/account/finance/payout_status.png
+   :scale: 100 %
+   :align: center
+   :alt: payment statuses
+   
+Sadly, there are times when the recipient system will decline the transfer, due to various reasons. Should this be the case, the relevant operation in :menuselection:`Office | Finance and payments | Accruals and payments | All account transactions` table will be marked as **Cancelled**, and the funds will be returned to your internal account. Don't panic and contact tech support |support|_. Our experts will help you figure out the problem and quickly solve it.
+   
+.. _bank-payout-label:
+
+.. rubric:: PayPal and bank transfers
+
+.. attention:: `Invoice <https://en.wikipedia.org/wiki/Invoice>`_ must be provided for each regular payment. 
+
+PayPal or bank transfers are more complicated, as they require the publisher to provide invoices for the payment to come through.
+
+Now let's see what happens with a PayPal or bank transfer application in :menuselection:`Office | Finance and payments | Accruals and payments | All account transactions`:
+
+#. First status is **New**: the transfer application is created within the system.
+#. Next, the application status will change to **Document required**. A new button will be enabled in the **All account transactions** table: |bracket|. It is used to upload documents. This status requires actions from the publisher and expires in 10 days.
+#. As soon as the invoices are provided, the status will change to Document check. This means that the documents are being reviewed by our managers.
+#. The application status may change back to **Document required** if the documents provided are insufficient. You can find out what was missing or incorrect in your documents by checking the comment to the status.
+#. After the documents are verified, application status will change to **On Payment**, and later to **Paid**. This status shows that the process is complete, the money is on your external account, and everything went according to plan.
+
+.. image:: ../../img/account/finance/payout_status_bank.png
+   :scale: 100 %
+   :align: center
+   :alt: bank payment statuses
+
+
+.. |bracket| image: ../../img/account/finance/bracket.png
