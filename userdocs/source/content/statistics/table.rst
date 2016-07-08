@@ -9,7 +9,7 @@ The main information presented by **Statistics** is displayed in the table. The 
        :align: center
        :alt: таблица статистики, функции
 
-The table in the **Statistics** shall be configured like :ref:`any other table <table-label>` in the interface. However, the report table in the **Statistics** has additional functions::
+The table in the **Statistics** shall be configured like :ref:`any other table <table-label>` in the interface. However, the report table in the **Statistics** has additional functions:
 
 #. There is a **Total includes** line in the report, which contains total amounts from the table.
 #. A parameter from the report can be shown in the graph. See details :ref:`here <additional_param_label>`.
