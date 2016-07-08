@@ -54,5 +54,5 @@ Display Components on the Chart
        :alt: How to Display Components on the Chart
        
 1. In the report table, choose up to four indicators that you wish to display in the chart.
-2. Click :guilabel:`Add ti Chart`.
+2. Click :guilabel:`Add to Chart`.
 3. All the data displayed on the chart are listed in the chart key.
