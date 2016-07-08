@@ -53,8 +53,8 @@ When you open **Realtime** reports, you'll see an interface which is refreshed n
 #.	**Summary** show data for the last hour. The countdown starts from the moment you go to the page of this report.
 #.	**Statistics by minute** is refreshed according to the schedule you specify for it. The schedule is above the chart.
 #.	**Statistics by second** is refreshed according to another schedule, you can also select it. The schedule is above the chart.
-#. **Report table** shows data for the last hour. The countdown starts from the moment you go to the page of this report.
-The traffic in this table is grouped by offers you work with.
+
+#.  **Report table** shows data for the last hour. The countdown starts from the moment you go to the page of this report. The traffic in this table is grouped by offers you work with.
 
 Conversions Report
 ==================
