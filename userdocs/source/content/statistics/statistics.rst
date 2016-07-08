@@ -34,7 +34,12 @@ For convenience, the **Statistics** interface is divided into «areas of respons
 Statistics Reports
 ==================
 
-We are working on bringing you new content soon. Thanks for your patience.
+Statistics is a window through which you look at your traffic. It provides an opportunity to view it from different angles. Imagine that your traffic is a polyhedron, and by turning its different facets you study it from different points of view, and you can learn all about it. Each facet is a report that gives you an opportunity to study any property of your traffic in detail.
+
+The main parameter
+   Is the traffic property you inspect in the report.
+
+Report names in the left menu in the **Statistics** group are the main parameter in accordance with which they are built. Within each report you can group data with different degree of refining (e.g. in a **Periods** report you can view data separately by **Years**, **Quarters**, **Months**, and etc.).
 
 Realtime Report
 ===============
