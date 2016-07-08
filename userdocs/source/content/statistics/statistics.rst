@@ -64,7 +64,7 @@ You analyze your traffic using all reports in the **Statistics** tab. The **Conv
 However, the **Conversion** report allows to analyze the conversion time lag in detail.
 Conversion time lag is the time from clicking an affiliate link to the conversion (you can select **CPL** or **Target actions**).
 
-The graph gives you the understanding of how many conversions occur during five (ten, fifteen, etc.) minutes after clicking the affiliate link.
+The chart gives you the understanding of how many conversions occur during five (ten, fifteen, etc.) minutes after clicking the affiliate link.
 
 The table shows the information about click → lead → action relation in the same line. 
 
