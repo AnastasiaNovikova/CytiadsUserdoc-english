@@ -20,7 +20,7 @@ This means that statistics is provided for these time zones. If you specified a 
    :align: center
    :alt: How to navigate Statistics
  
-For convenience, the **Статистики**interface is divided into «areas of responsibility»:
+For convenience, the **Statistics** interface is divided into «areas of responsibility»:
 
 #.  Report **Search**. Helps to quickly find the report you need in the **Statistics** report tree. The reports you previously saved can also be found via this search.
 #. **Reports navigation**. Contains a list of all report versions that **Statistics** provides.
