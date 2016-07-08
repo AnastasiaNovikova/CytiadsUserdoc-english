@@ -13,7 +13,7 @@ The table in the **Statistics** shall be configured like :ref:`any other table <
 
 #. There is a **Total includes** line in the report, which contains total amounts from the table.
 #. A parameter from the report can be shown in the graph. See details :ref:`here <additional_param_label>`.
-#. Any report can be adjusted by selecting the **Optional parameter**. If you select the **Optional parameter*, the data in the table will be regrouped according to the selected **Optional parameter**.
+#. Any report can be adjusted by selecting the **Optional parameter**. If you select the **Optional parameter**, the data in the table will be regrouped according to the selected **Optional parameter**.
 #. The **Dynamics** column can be added. **Dynamics** is a widget, which may be added to the report table by selecting an indicator from the dropdown list above the report table. The dynamics is a graph of the selected indicator for the last 10 days (irrespectively of the period selected).
 #. How to regroup the data by various dates:
 
