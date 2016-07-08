@@ -1,5 +1,5 @@
 ====================
-Statistics interface
+Statistics Interface
 ====================
 
 As you know, those who own the information own everything. The most valuable information in Internet marketing is the latest figures about what is happening with the traffic. We provide you a powerful tool to analyze your traffic, and thus, your performance, — reports in the **Statistics** section. This information will help you to timely find issues and make proper decisions.
