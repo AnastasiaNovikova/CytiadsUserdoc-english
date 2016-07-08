@@ -42,7 +42,7 @@ The period you set in the :ref:`Filter <statistics-filter-label>`, will be appli
 In the **Calendar** , you set the period, for which the statistics will be displayed. You can:
 
 #. Select the date by clicking the calendar. Here you select the absolute date. It means that it will be saved as you set it. Tomorrow, the day after tomorrow and in a month you will see the statistics for the dates you have selected.
-#. 2.	Select the period from the suggested ones (a day, 7 days, 30 days, etc.). Here you select the relative period. It means that each period will be counted from the current date.
+#. Select the period from the suggested ones (a day, 7 days, 30 days, etc.). Here you select the relative period. It means that each period will be counted from the current date.
 
    For example, you have selected 7 days. If you look at the statistics today, the data will be displayed for the last seven days. If you look at the statistics tomorrow, the period will be counted from tomorrow and include the last seven days
 
@@ -73,7 +73,7 @@ Save Report
 To save your favorite combination of filters once:
 
 #. Go to the report you use most often for the traffic analysis.
-#. You can also set up the **Optional parameter**, и **Dinamics** and :ref:`the type of event date <onversion-download-label>`, if required; these parameters will be also saved.
+#. You can also set up the **Optional parameter**, **Dinamics** and :ref:`the type of event date <onversion-download-label>`, if required; these parameters will be also saved.
 #. Set up the conditions: period in the calendar and selection by filters.
-#. Click the :guilabel:`Save report`button, then name the filter you are saving.
-#. The report that you have just saved will appear in the :menuselection:`My Reports`.
+#. Click the :guilabel:`Save report` button, then name the filter you are saving.
+#. The report that you have just saved will appear in the :menuselection:`Statistics | My Reports` tab.
