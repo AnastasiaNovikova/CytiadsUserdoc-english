@@ -6,7 +6,7 @@ Filter
 
 The filter in the **Statistics** manages the contents of the reports. The combination of the configured conditions in the **Filter** is a global condition for all reports in the **Statistics**. It means that the conditions stay the same as you navigate between the reports. 
 
-.. figure:: ../../img/statistics/global_filter0.png
+.. figure:: ../../img/statistics/global_filter.png
    :scale: 100 %
    :align: center
    :alt: Kalendar in the statistics
@@ -34,7 +34,7 @@ Period
 
 The period you set in the :ref:`Filter <statistics-filter-label>`, will be applied to all your reports. Till you change it manually. To set the period, we have created the **Calendar**:
 
-.. figure:: ../../img/statistics/calendar0.png
+.. figure:: ../../img/statistics/calendar.png
    :scale: 65 %
    :align: center
    :alt: Calendar in statistics
@@ -63,7 +63,7 @@ You can save as many reports as you want. All of them will be displayed in :menu
 Save Report
 ===========
 
- .. figure:: ../../img/statistics/save_my_filter0.png
+ .. figure:: ../../img/statistics/save_my_filter.png
     :scale: 100 %
     :align: center
     :alt: Save statistics report
