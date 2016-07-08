@@ -55,3 +55,19 @@ When you open **Realtime** reports, you'll see an interface which is refreshed n
 #.	**Statistics by second** is refreshed according to another schedule, you can also select it. The schedule is above the chart.
 #.	**Report table** shows data for the last hour. The countdown starts from the moment you go to the page of this report.
 The traffic in this table is grouped by offers you work with.
+
+Conversions Report
+==================
+
+You analyze your traffic using all reports in the **Statistics** tab. The **Conversion** report stands apart from other reports, since we display only the information on conversions in it, and nothing more. Using only Conversions Report, you cannot analyze your performance, unlike other reports showing performance indicators.
+
+However, the **Conversion** report allows to analyze the conversion time lag in detail.
+Conversion time lag is the time from clicking an affiliate link to the conversion (you can select **CPL** or **Target actions**).
+
+The graph gives you the understanding of how many conversions occur during five (ten, fifteen, etc.) minutes after clicking the affiliate link.
+
+The table shows the information about click → lead → action relation in the same line. 
+
+* The click date is the time when a visitor clicks the affiliate link.
+*	The order date is the date of the lead (primary target).
+*	The Target action date is the time when the secondary target of the offer is achieved.
