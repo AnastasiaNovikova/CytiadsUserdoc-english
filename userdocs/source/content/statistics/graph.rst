@@ -17,7 +17,7 @@ There are additional functions in the **Chart** area for working and configuring
 #. The time parameter can be changed to view the dynamics of the primary indicator not by days, but, e.g., by weeks. Please note that by selecting a very short period in the calendar – up to 10 days – you can view the statistics by hours, but the statistics by weeks will not be available for you.
 #. The appearance of the chart can be switched to the bar charts.
 
-*******************************************
+******************************************
 Comparison of Two Indicators in the Chart
 ******************************************
 
@@ -35,7 +35,7 @@ Two functions of time can be displayed on the chart in the **Statistics**. I.e.,
 
 .. _additional_param_label:
 
-***********************************
+**********************************
 Additional indicators in the Chart
 **********************************
 
@@ -46,7 +46,7 @@ The chart can be specified by adding a chart from the table of the report you ar
 Let's assume you're viewing a report on the chart. The indicator displayed as the primary one is a *summary* indicator. This *summary* chart can be analyzed by its *summands*, i.e. its *components* can be displayed on the coordinate plane.
 
 Display Components on the Chart
-======================================
+===============================
 
 .. figure:: ../../img/statistics/graph_additional_param.png
        :scale: 100 %
