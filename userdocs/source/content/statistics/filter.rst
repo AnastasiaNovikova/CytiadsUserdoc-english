@@ -13,8 +13,8 @@ The filter in the **Statistics** manages the contents of the reports. The combin
 
 It works in the same way as other filters in our interface, but the statistics **Filter** has its peculiarities:
 
-#. 1.	The reports will not be created without the :ref:`Period <statistics-calendar-label>` filter. It means that you have to specify the date, for which you want to see the statistics.
-#. 2.	You can set the condition *exclude* for the **Statistics** filters.
+#. The reports will not be created without the :ref:`Period <statistics-calendar-label>` filter. It means that you have to specify the date, for which you want to see the statistics.
+#. You can set the condition *exclude* for the **Statistics** filters.
 
    For example, to display the statistics on all offers, except **003.RU**:
    
@@ -23,8 +23,8 @@ It works in the same way as other filters in our interface, but the statistics *
    #. Uncheck the offer **003.RU**.
    #. Click  :guilabel:`Apply`.
 
-#. 3.	To rebuild the report using the filter, click :guilabel:`Apply`. 
-#. 4.	If you click :guilabel:`Reset`, all previously set conditions will be deleted. The :ref:`Period <statistics-calendar-label>` condition will get its default value of **30 days**.
+#. To rebuild the report using the filter, click :guilabel:`Apply`. 
+#. If you click :guilabel:`Reset`, all previously set conditions will be deleted. The :ref:`Period <statistics-calendar-label>` condition will get its default value of **30 days**.
 
 .. _statistics-calendar-label:
 
@@ -54,7 +54,7 @@ In the **Calendar** , you set the period, for which the statistics will be displ
 My Reports
 **********
 
-НOf course, you have your favorite combinations of the :ref:`Filter  <statistics-filter-label>`, conditions that are used often. For example, you often analyze your traffic in Russia for the last week. In order not to perform the same settings every time, we have added the feature that allows to save your favorite reports. 
+Of course, you have your favorite combinations of the :ref:`Filter  <statistics-filter-label>`, conditions that are used often. For example, you often analyze your traffic in Russia for the last week. In order not to perform the same settings every time, we have added the feature that allows to save your favorite reports. 
 
 You can save as many reports as you want. All of them will be displayed in :menuselection:`Statistics | My Reports`.To view the saved report, just click it.
 
