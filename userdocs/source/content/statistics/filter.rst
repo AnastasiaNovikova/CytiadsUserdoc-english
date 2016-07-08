@@ -1,4 +1,4 @@
-. _statistics-filter-label:
+.. _statistics-filter-label:
 
 ======
 Filter
@@ -32,48 +32,48 @@ It works in the same way as other filters in our interface, but the statistics *
 Period
 ******
 
-Период, который вы настроите в :ref:`фильтре <statistics-filter-label>`, будет действовать на все отчёты. Ровно до тех пор, пока вы руками его не измените. Для настройки периода мы сделали **Календарь**:
+The period you set in the :ref:`Filter <statistics-filter-label>`, will be applied to all your reports. Till you change it manually. To set the period, we have created the **Calendar**:
 
 .. figure:: ../../img/statistics/calendar.png
    :scale: 65 %
    :align: center
-   :alt: Календарь в статистике
+   :alt: Calendar in statistics
  
-В **Календаре** вы настраиваете период, за который хотите увидеть статистику. Вы можете:
+In the **Calendar** , you set the period, for which the statistics will be displayed. You can:
 
-#. Выбрать дату, кликнув на календарь. Здесь вы выбираете абсолютную дату. То есть она будет сохранена в том виде, в каком вы ее зададите. И завтра, и послезавтра, и через месяц статистику вы увидите за те даты, которые выбрали.
-#. Выбрать период из предложенных (день, 7 дней, 30 дней и т.д). Здесь вы выбираете относительный период. То есть каждый интервал, будет отсчитываться от сегодняшней даты. 
+#. Select the date by clicking the calendar. Here you select the absolute date. It means that it will be saved as you set it. Tomorrow, the day after tomorrow and in a month you will see the statistics for the dates you have selected.
+#. 2.	Select the period from the suggested ones (a day, 7 days, 30 days, etc.). Here you select the relative period. It means that each period will be counted from the current date.
 
-   Например, вы выбрали 7 дней. Если зайти в сегодняшнюю статистику, то данный выведутся от сегодня на семь дней назад. Если зайти в статистику на завтрашний день, то интервал будет отсчитываться от завтра и на семь дней назад.
+   For example, you have selected 7 days. If you look at the statistics today, the data will be displayed for the last seven days. If you look at the statistics tomorrow, the period will be counted from tomorrow and include the last seven days
 
-#. Ввести дату вручную. Эта дата тоже абсолютная (объяснение смотрите в п.1).
-#. К тому же вы можете использовать функцию **Сравнить**, чтобы просмотреть статистику по двум выбранным периодам одновременно. Выбрать период для сравнения можно из ранее предложенных.
-#. Или ввести период для сравнения вручную.
+#. Enter the date manually. This date is also absolute (see the explanation in Item 1).
+#. You can also use the **Compare** feature to see the statistics on two selected periods at the same time. You can select the period for comparison from the ones suggested earlier.
+#. Or specify the period for comparison manually.
 
 **********
-Мои отчеты
+My Reports
 **********
 
-Наверняка у вас есть особенно любимые комбинации условий :ref:`фильтра <statistics-filter-label>`, которые вы используете по многу раз. Например, вы часто анализируете трафик за прошедшую неделю по России. Чтобы вам не настраивать раз за разом одно и то же, мы добавили возможность сохранения ваших любимых фильтров. 
+НOf course, you have your favorite combinations of the :ref:`Filter  <statistics-filter-label>`, conditions that are used often. For example, you often analyze your traffic in Russia for the last week. In order not to perform the same settings every time, we have added the feature that allows to save your favorite reports. 
 
-Вы можете сохранить столько отчетов, сколько захотите. Все они будут отображаться в разделе :menuselection:`Статистика | Мои отчеты`. Чтобы просмотреть сохраненный отчет, просто кликните на название.
+You can save as many reports as you want. All of them will be displayed in :menuselection:`Statistics | My Reports`.To view the saved report, just click it.
 
 .. _statistics-save-label:
 
-Сохранить отчет
-===============
+Save Report
+===========
 
  .. figure:: ../../img/statistics/save_my_filter.png
     :scale: 100 %
     :align: center
-    :alt: Сохранить фильтр в статистике
+    :alt: Save statistics report
 
-.. tip:: Когда вы настроите :ref:`фильтры <statistics-filter-label>` и сохраните их, используя функцию **Сохранить отчет**, то, кроме фильтров сохранится и тот отчет, на котором вы сохраняли фильтр. Поэтому мы рекомендуем вам выбирать для каждого сохраняемого фильтра самый удобный отчет.
+.. tip:: When you configure and save :ref:`Filters <statistics-filter-label>` using the **Save Report** function, in addition to the **Filters**, the report where you have saved the filter will be also saved. Therefore, we recommend to select the most convenient report for each filter to be saved.
  
-Чтобы один раз сохранить вашу любимую комбинацию фильтров:
+To save your favorite combination of filters once:
 
-#. Перейдите в отчет, который используете чаще всего для анализа трафика.
-#. Если необходимо,то вы можете настроить и **Дополнительный параметр**, и **Динамику показателя**, и :ref:`тип даты события <onversion-download-label>` — эти параметры тоже сохранятся.
-#. Настройте условия: период в календаре и выборку по фильтрам.
-#. Нажмите на кнопку :guilabel:`Сохранить отчет`, после чего дайте название фильтру, который сохраняете.
-#. На вкладке :menuselection:`Статистика | Мои отчеты` появится тот отчет, который вы только что сохранили.
+#. Go to the report you use most often for the traffic analysis.
+#. You can also set up the **Optional parameter**, и **Dinamics** and :ref:`the type of event date <onversion-download-label>`, if required; these parameters will be also saved.
+#. Set up the conditions: period in the calendar and selection by filters.
+#. Click the :guilabel:`Save report`button, then name the filter you are saving.
+#. The report that you have just saved will appear in the :menuselection:`My Reports`.
