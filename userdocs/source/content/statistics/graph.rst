@@ -28,7 +28,7 @@ Two functions of time can be displayed on the chart in the **Statistics**. I.e.,
        :align: center
        :alt: Comparison of Two Indicators in the  Chart
  
-#. To compare the two charts by different indicators, click the **Compare with...**.
+#. To compare the two charts by different indicators, click the :guilabel:`Compare with...`.
 #. By clicking on the indicator name in the chart key, you can hide its drawing.
 #. The scale of the *parameter to compare with* will differ from the first function on the chart, so we have displayed one more scale in the right
 #. When you hover over any point on the charts with a mouse, a detailed hint will pop up.
