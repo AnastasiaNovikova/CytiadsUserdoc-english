@@ -47,13 +47,26 @@
   	font-weight: 400;
   	font-style: italic;
   }
-  @font-face {
-  	font-family: Roboto;
-  	src: url("../fonts/roboto/Roboto-Medium.woff2") format("woff2"),
-  	     url("../fonts/roboto/Roboto-Medium.woff") format("woff");
-  	font-weight: 900;
-  	font-style: normal;
-  }
+ li > ul {
+    margin-top: 10px;
+}
+.icon--menu{
+	cursor: pointer;
+    border-bottom: 3px solid #fff;
+    border-top: 10px double #fff;
+    height: 3px;
+    padding: 2px 0;
+    width: 24px;
+    /* margin-top: 12px; */
+    display: inline-block;
+    /* margin-bottom: -7px; */
+    position: relative;
+    bottom: -2px;
+}
+.align-center {
+    display: block;
+    margin: 0 auto;
+}
   .download--htmlzip {
     background: url(../images/save--blue.png) no-repeat;
     padding: 6px 27px 10px;
@@ -76,7 +89,7 @@
 }
   .section{
   	font-family: Adelle;
-  	font-size: 14px;
+  	font-size: 15px;
   }
   .rst-content .reference.internal{
   	font-family: Adelle;
@@ -87,7 +100,7 @@
   	color: #8a8a8a;
   }
   .content-top-shadow{
-  box-shadow: 0 2px 4px rgba(0,0,0,.2);	
+  box-shadow: 0 2px 3px rgba(0,0,0,.2);	
   }
   .rst-content > .section,
   .rst-content > #search-results{
@@ -95,7 +108,7 @@
   	color: #212121;
         padding: 32px;
         margin-bottom: 16px;
-        box-shadow: 0 2px 4px rgba(0,0,0,.2);
+        box-shadow: 0 2px 3px rgba(0,0,0,.2);
   }
   .page__button{
   	float: right;
@@ -104,7 +117,7 @@
   }
   .page__button > a{
   	font-size: 14px;
-  	font-family: Roboto;
+  	font-family: DINWebPro;
   	text-transform: uppercase;
   	color: #009688;
   	text-decoration: none;
@@ -147,7 +160,7 @@ a {
 	z-index: 2;
 }
 .header__logo__link{
-	display: inline-block;
+	display: none;
 }
 .header__logo,
 .header__title{
@@ -162,8 +175,9 @@ a {
 
 .header__search{
     max-width: 928px;
+    margin: 0 auto;
     position: absolute;
-    left: 190px;
+    left: 92px;
     right: 80px;
     top: 21px;
     bottom: 24px;
@@ -205,8 +219,11 @@ width: 251px;
     position: fixed;
     padding-top: 15px;
   display: none;
+  z-index: 7;
 }
-
+.menu[data-opened="true"] {
+    display: block;
+}
 .menu ul,
 .menu li{
 	list-style: none;
@@ -369,6 +386,7 @@ th.head {
 }
 
 .content ol > li > ol{
+	margin-top: 16px;
 	counter-reset: list2;
 }
 .content ol > li > ol > li{
@@ -403,18 +421,25 @@ th.head {
 }
 .rst-content{
 	max-width: 992px;
+	margin: 0 auto;
 }
 .figure{
 	clear: both;
 }
 .admonition{
-	float: right;
-	width: 34.4%;
+	
 	clear: both;
 	margin-left: 32px;
 	background: #fff !important;
 	color: #8a8a8a;
 	font-family: DINWebPro;
+}
+@media (min-width: 1024px) {
+	.admonition{
+		float: right;
+		width: 100%;
+		max-width: 300px;
+	}
 }
 .admonition.tip,
 .admonition.hint{
@@ -436,6 +461,9 @@ th.head {
   .menu{
     display: block;
   }
+  .icon--menu{
+  	display: none;
+  }
   .content{
   	margin-left: 284px;
   }
@@ -444,8 +472,11 @@ th.head {
     color: rgba(255,255,255,0.8);
     text-transform: uppercase;
 }
+.header__logo__link{
+	display: inline-block;
+}
   .header__search{
-  	left: 348px;
+  	left: 365px;
   }
 }
 
@@ -663,6 +694,7 @@ li {
 
 dd {
     margin: 0 0 19px 0;
+    line-height: 20px;
 }
 
 img {
@@ -3490,7 +3522,7 @@ a .icon {
 .rst-content .admonition-todo {
     padding: 0 12px;
     line-height: 20px;
-    margin-bottom: 24px;
+    margin-bottom: 21px;
     background: #e7f2fa
 }
 
@@ -5078,7 +5110,7 @@ legend {
 p {
     line-height: 20px;
     margin: 0;
-    font-size: 14px;
+    font-size: 15px;
     margin-bottom: 16px
 }
 
@@ -5902,6 +5934,7 @@ div[class^='highlight'] pre {
 
 footer {
     max-width: 992px;
+    margin: 0 auto;
 }
 
 footer p {
