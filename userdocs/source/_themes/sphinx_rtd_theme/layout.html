@@ -76,7 +76,7 @@
       <script type="text/javascript" src="{{ pathto(scriptfile, 1) }}"></script>
     {%- endfor %}
 
-      <!-- / GOOGLE-A -->
+    <!-- / GOOGLE-A -->
      <script type="text/javascript">
         var _gaq = _gaq || [];
         // User Analytics Code
@@ -91,6 +91,8 @@
         
         // end RTD Analytics Code
      </script>
+
+
 
 </head>
 
@@ -187,6 +189,7 @@
         window.addEventListener("hashchange", hashChange);
         //window.addEventListener('resize', reposition);
         
+        toggleMenu();
         hashChange();
         //setTimeout(reposition);
         SphinxRtdTheme.StickyNav.enable();

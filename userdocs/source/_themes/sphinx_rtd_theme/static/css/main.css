@@ -34,14 +34,14 @@
   	font-style: normal;
   }
     @font-face {
-  	font-family: Adelle;
+  	font-family: DINSerif;
   	src: url("../fonts/DIN Serif/PFDINSerifRegular.woff2") format("woff2"),
   	     url("../fonts/DIN Serif/PFDINSerifRegular.woff") format("woff");
   	font-weight: 400;
   	font-style: normal;
   }
     @font-face {
-  	font-family: Adelle;
+  	font-family: DINSerif;
   	src: url("../fonts/DIN Serif/PFDINSerifRegularItalic.woff2") format("woff2"),
   	     url("../fonts/DIN Serif/PFDINSerifRegularItalic.woff") format("woff");
   	font-weight: 400;
@@ -88,13 +88,16 @@
     text-transform: uppercase;
 }
   .section{
-  	font-family: Adelle;
+  	font-family: DINSerif;
   	font-size: 15px;
   }
   .rst-content .reference.internal{
-  	font-family: Adelle;
+  	font-family: DINSerif;
   	color: #212121;
   }
+  .admonition .reference.internal {
+    font-family: DINWebPro;
+}
   .menuselection{
   	font: 15px/20px DINWebPro;
   	color: #8a8a8a;
@@ -433,6 +436,8 @@ th.head {
 	background: #fff !important;
 	color: #8a8a8a;
 	font-family: DINWebPro;
+	position: relative;
+	z-index: 1;
 }
 @media (min-width: 1024px) {
 	.admonition{
@@ -3522,7 +3527,7 @@ a .icon {
 .rst-content .admonition-todo {
     padding: 0 12px;
     line-height: 20px;
-    margin-bottom: 21px;
+    margin-bottom: 16px;
     background: #e7f2fa
 }
 
@@ -5987,7 +5992,7 @@ footer span.commit .rst-content tt,
 }
 
 #search-results .context {
-    font: 14px/20px Adelle;
+    font: 14px/20px DINSerif;
 }
 
 @media screen and (max-width: 768px) {
