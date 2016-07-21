@@ -41,8 +41,8 @@ The main parameter
 
 Report names in the left menu in the **Statistics** group are the main parameter in accordance with which they are built. Within each report you can group data with different degree of refining (e.g. in a **Periods** report you can view data separately by **Years**, **Quarters**, **Months**, and etc.).
 
-Realtime Report
-===============
+Real time Report
+================
 
 Such report shows statistics without delay. As soon as information about a hit/click/lead appears in our system, we will immediately publish it to users in this report.
 
@@ -53,7 +53,7 @@ The Real Time Report differs from others in that the data is received continuous
    :align: center
    :alt: Real time stat
 
-When you open **Realtime** reports, you'll see an interface which is refreshed not synchronously, but by zones:
+When you open **Real time** reports, you'll see an interface which is refreshed not synchronously, but by zones:
 
 #.	**Summary** show data for the last hour. The countdown starts from the moment you go to the page of this report.
 #.	**Statistics by minute** is refreshed according to the schedule you specify for it. The schedule is above the chart.
