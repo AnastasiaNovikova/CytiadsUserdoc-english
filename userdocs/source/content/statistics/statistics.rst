@@ -48,6 +48,11 @@ Such report shows statistics without delay. As soon as information about a hit/c
 
 The Real Time Report differs from others in that the data is received continuously, and the report page is updated on its own, with no additional action by the publisher. And there will be two charts on the page rather than one, because we provide new statistics on the publisher's traffic with one minute delay and the very latest statistics with a delay of just a second.
 
+.. figure:: ../../img/statistics/realtime.png
+   :scale: 100 %
+   :align: center
+   :alt: Real time stat
+
 When you open **Realtime** reports, you'll see an interface which is refreshed not synchronously, but by zones:
 
 #.	**Summary** show data for the last hour. The countdown starts from the moment you go to the page of this report.
