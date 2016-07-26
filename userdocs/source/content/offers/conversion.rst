@@ -4,7 +4,7 @@ Conversion
 
 In the Internet marketing conversion is all about the efficiency of advertising. And this efficiency is measured on each stage towards the ultimate goal. Here we are getting to the key point in understanding the affiliate networks and the Internet marketing in general. Below we will review the transition from the simple viewing of the ad to the target action.
 
-So, where does the advertising start? It starts from an ad. And good advertising needs good ads. How can you understand whether an ad is good? And which of any two ads is better? Of course, you can post your dummy ad to `Red dot <http://en.red-dot.org/>`_, wait for feedback, re-work it and publish The Best Design according to `their<http://www.red-dot.sg/en/jury/>`_ version. But obviously in this case we'll get the most beautiful ad, not the most efficient one…
+So, where does the advertising start? It starts from an ad. And good advertising needs good ads. How can you understand whether an ad is good? And which of any two ads is better? Of course, you can post your dummy ad to `Red dot <http://en.red-dot.org/>`_, wait for feedback, re-work it and publish The Best Design according to `their <http://www.red-dot.sg/en/jury/>`_ version. But obviously in this case we'll get the most beautiful ad, not the most efficient one…
 
 Now, *what is the efficient advertising*? If you consult with the Wikipedia, you'll get the feeling that calculation of efficiency will require involvement of a think tank or even two. And you will be not far from the truth :). But for making reasonably fast and informed decisions you need fast techniques that will be clear both for the advertiser and publisher who promotes an offer. Such methodology is the assessment of *conversion*.
 
