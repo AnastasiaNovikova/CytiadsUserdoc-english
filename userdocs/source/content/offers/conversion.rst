@@ -140,42 +140,42 @@ And then we can estimate (forecast) the revenue from 1000 clicks too:
 Average cost of click
 ***********************
 
-So, if we provide the traffic for the offer diligently and calculate the conversions we'll have the highly valuable figures — the cost of one click (we made a forecast of this figure :ref:`above <macroconvercion_label>` мы спрогнозировали этот показатель по конверсии) и стоимость тысячи показов.
+So, if we provide the traffic for the offer diligently and calculate the conversions we'll have the highly valuable figures — the cost of one click (we made a forecast of this figure :ref:`above <macroconvercion_label>` мыbased on the conversion) and the cost of 1000 impressions.
 
-Стоимость клика (CPC англ. Cost Per Click)
-	В модели СРА, это доход с клика, который вы получаете, если льете трафик на конкретный оффер.
+CPC (COST PER CLICK)
+   In CPA model it means the revenue from the click that you earn by providing the traffic for a specific offer.
 	
-Стоимость тысячи показов (CPM англ. Cost Per Mille)
-	В модели СРА, это доход на тысячу показов, который вы получаете, если льете трафик на конкретный оффер.
+CPM (COST PER MILLE)
+   In CPA model it means the revenue from 1000 impressions that you earn by providing the traffic for a specific offer.
 
-Реальный СРС и СРМ
-==================
+Real CPC and CPM
+================
 
-Предположим, рекламодатель предлагает нам 250 рублей с продажи сапог (это цель по модели CPS, не забываем). Мы льем трафик на оффер и, спустя неделю, оказалось, что продано 10 пар сапог, за них мы получили 2500 рублей. Зайдем в статистику по офферу и узнаем, сколько раз кликнули по той ссылке, которая вела на сапоги. Предположим, было 13000 просмотров, а по ссылке кликнули 1500 раз.
+Suppose the advertiser offers 250 rubles per one pair of sold shoes (don't forget, this is the target for CPS model). We provide traffic for this offer and after a week 10 pairs of shoes will be sold. So we get 2500 rubles. Let's look at the offer statistics to see the number of clicks on the link to the shoes. Suppose there were 13000 views and 1500 clicks.
 
-Тогда, чтобы посчитать СРС — доход с одного клика — поделим общий доход на количество кликов:
+Then, to calculate the CPC (cost per click) we divide the total revenue by the number of clicks:
 
-	2500 ÷ 1500 = 1,67 (рубля) — СРС в нашем примере.
+	2500 ÷ 1500 = 1.67 (rubles) — CPC in our case.
+	
+To calculate CPM — cost per mille — we divide the profit by the total number of impressions and multiply by 1000:
 
-А что бы посчитать CPM — доход с тысячи показов — поделим доход на все показы и умножим на тысячу:
+	(2500 ÷ 13000) × 1000 = 192.3 (rubles)
 
-	(2500 ÷ 13000 ) × 1000 = 192,3 (рублей)
+Effective CPC (eCPC)
+====================
 
-Средний СРС (еСРС)
-==================
+Now imagine the volume of such statistics in the affiliate network where dozens of publishers provide traffic to a single offer. The partner network can divide ALL earnings for the offer, received by publishers of this network, by ALL clicks on the links under the offer. As a result we get the following:
 
-А теперь представьте, сколько подобной статистики в партнёрской сети, где на один оффер льют десятки вебмастеров. То есть у партнёрской сети есть возможность поделить ВЕСЬ заработок по офферу, который получают вебмастеры этой сети, на ВСЕ клики по ссылкам оффера. В результате получится это:
+**eCPC (Effective Cost per Click) = sum of the fees for all publishers under the offer ÷ number of clicks on the links under the offer**.
 
-	еСРС (англ. Effective Cost per Click) = Сумма комиссий всех вебмастеров по офферу ÷ Количество кликов по ссылкам оффера.
-
-Этот показатель, вообще-то, сильно зависит от времени, за которое собиралась статистика. Например, если оффер совсем свежий, то мало вебмастеров с ним работают, статистики мало, и она не очень репрезентативна. Ведь у каждого вебмастера свой подход: кто-то арбитражит, кто-то работает с форумами, другие с новостными сайтами. И конверсии во всех случаях сильно различаются. Зато, по прошествии некоторого времени, статистика выравнивается и очень мало зависит от сторонних факторов. По этим причинам выделили два средних показателя по СРС: за неделю (7D eCPC) и за последние три месяца (3M eCPC). 
+This figure, in fact, strongly depends on the statistics collection period. For example, if the offer is new, then few publishers work with it, the statistics is scarce, and it is not very representative. After all, each publisher uses his/her own approach: some use arbitrage, some work with forums, others work with news websites. Conversions will differ greatly in these cases. However, after some time the statistics will become representative and almost non-sensitive to external factors. Taking this into account, we differentiate between two effective CPC: for a week (7D eCPC) and for the last three months (3M eCPC).
 
 .. rubric:: 7D eCPC
 
-Показатель за 7D eCPC легче собрать, потому что не нужно ждать 3 месяца. Он может отражать колебания спроса на предложения, например, новогодний бум — и этот показатель взлетает до небес.
+7D eCPC is easier to collect, because you don't need to wait for 3 months. It may reflect fluctuations in supply and demand, such as New Year's boom when the figure soars to the heavens.
 
 .. rubric:: 3M eCPC
 
-А вот 3M eCPC более «трезвая» оценка, потому что собирается долго и не зависит от предпраздничных колебаний. Но, зато она не принимает в расчет и явные ошибки и просчеты, некачественный трафик и т.д… короче, похожа на «среднюю температуру по больнице».
+3M eCPC gives a more sober estimate because it covers a long period and does not depend on holiday deviations. But on the other hand it does not take into account obvious mistakes and miscalculations, poor quality traffic, etc… well, it's a very generalized and average figure.
 
-Партнёрская сеть охотно делится таким показателем как еСРС, потому что по нему вебмастеры могут оценить, насколько затратно (или выгодно) работать с оффером.
+The affiliate network willingly shares the eCPC figure since it allows publishers to estimate the benefits of working with the offer.
