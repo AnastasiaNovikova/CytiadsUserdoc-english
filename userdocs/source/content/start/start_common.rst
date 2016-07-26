@@ -6,13 +6,8 @@ So, you decided to earn on the Digital marketing, nice choice =) All you need is
 
 Internet-marketing depends on the success of the advertising. Will the your visitor buy the product offered by your partners? Your partners are *advertisers* who got products to be advertised and sold. Advertiser's targets for advertisement campaigns may vary. *The target* is the key component in the affiliate program.
 
-.. image:: ../../img/start/city_n_webmaster.png
-   :width: 500 px
-   :align: center
-   :alt: people ready to pay for advertising 
-
 AFFILIATE PROGRAM
-       It's the advertiser's project. It's the advertisement offer to the publishers.
+   It's the advertiser's project. It's the advertisement offer to the publishers.
 
 By publishing the affiliate program the advertiser intends to say: "Dear publishers, here are my links, make your visitors click them. If your visitors buy something from me (or order something, or fill in the form) I'll pay for your efforts". And you start the cooperation. You fulfill the conditions of the advertiser, and the advertiser pays. It's simple, it's partner relations.
 
@@ -23,9 +18,9 @@ What's an affiliate network?
 Now imagine that you don't need to be googling day and night to find partners. That they all gathered in one place, and published their offers all together. This dream is called an affiliate network.
 
 .. image:: ../../img/start/city_n_webmaster.png
-       :scale: 100 %
-       :align: center
-       :alt: иерархическая структура сра
+   :width: 500 px
+   :align: center
+   :alt: people ready to pay for advertising 
 
 AFFILIATE NETWORK
    It's an aggregator for affiliate programs. Many different offers from advertisers gathered in one place.
