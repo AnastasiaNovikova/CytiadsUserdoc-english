@@ -28,18 +28,30 @@ If you've got plenty of spare time, then you can read those documents through, h
    :caption: Theory
 
    content/start/start_common.rst
+   content/offers/conversion.rst
 
 .. toctree::
    :maxdepth: 3
    :caption: Introduction
 
    content/start/how_does_it_work.rst
+   content/start/interface_overview.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Account and Finance
 
+   content/account/account.rst
    content/account/finance.rst
+   content/account/agent_cabinet.rst
+   content/account/commission.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Working with offers
+
+   content/offers/offers.rst
+   content/offers/offers_interface.rst
 
 .. toctree::
    :maxdepth: 2
