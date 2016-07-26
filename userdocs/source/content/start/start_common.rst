@@ -6,6 +6,11 @@ So, you decided to earn on the Digital marketing, nice choice =) All you need is
 
 Internet-marketing depends on the success of the advertising. Will the your visitor buy the product offered by your partners? Your partners are *advertisers* who got products to be advertised and sold. Advertiser's targets for advertisement campaigns may vary. *The target* is the key component in the affiliate program.
 
+.. image:: ../../img/start/city_n_webmaster.png
+   :width: 500 px
+   :align: center
+   :alt: people ready to pay for advertising 
+
 AFFILIATE PROGRAM
        It's the advertiser's project. It's the advertisement offer to the publishers.
 
@@ -17,7 +22,7 @@ What's an affiliate network?
 
 Now imagine that you don't need to be googling day and night to find partners. That they all gathered in one place, and published their offers all together. This dream is called an affiliate network.
 
-.. figure:: ../../img/start/city_n_webmaster.png
+.. image:: ../../img/start/city_n_webmaster.png
        :scale: 100 %
        :align: center
        :alt: иерархическая структура сра
@@ -35,10 +40,10 @@ CPA and many other schemes
 
 Basically, CPA covers all potential actions of the visitor, but for specialization one can define different models of the affiliate programs.
 
-.. figure:: ../../img/start/cpa_cpi.png
-       :scale: 100 %
-       :align: center
-       :alt: иерархическая структура сра
+.. image:: ../../img/start/cpa_cpi.png
+   :width: 500 px
+   :align: center
+   :alt: ifferent models of the affiliate programs.
 
 CPS (COST PER SALE)
    In this scheme the action is the sale. That is, if an advertiser sells something (rather than provides some services), this scheme might be quite OK. The advertiser decides how much it will pay for a sale (and the affiliate network tries to make this fee as high as possible). This can be a fixed amount ("fix" in the network slang) or a percentage of the sale amount. Here the compensation is one of the largest among the CPA offers because complete settlement with the visitor takes a long time, purchases are not frequent, and due to many other risks.
@@ -75,10 +80,10 @@ Types of traffic
 
 So, traffic basically means the volume of data. While visitor flow means the number of visitors to your website. Traffic is like a flow to your website. But there must be a source for that flow. Here we come to the traffic sources, and these sources can be split into several groups:
 
-.. figure:: ../../img/start/traffic.png
-       :scale: 100 %
-       :align: center
-       :alt: откуда прихожит траффик
+.. image:: ../../img/start/traffic.png
+   :width: 500 px
+   :align: center
+   :alt: traffic suorce
 
 #. **Direct traffic**. When the visitor types in the website name in the search field. Or saves the URL in favorites. In any case, the visitor comes to you directly, with no intermediaries.
 #. **E-mail traffic**. Its source is in the mailings. After receiving an email the reader clicks some link and gets to your website.
