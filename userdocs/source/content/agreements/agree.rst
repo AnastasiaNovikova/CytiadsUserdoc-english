@@ -1,10 +1,8 @@
 .. _agreement-section-label:
 
-Соглашения
+==========
+Agreements
 ==========
 
-Раздел в разработке
-
-Соглашение о конфиденциальности и тд. Правила, которые подписывают во время регистрации
-
+We are working on bringing you new content soon. Thanks for your patience.
 
