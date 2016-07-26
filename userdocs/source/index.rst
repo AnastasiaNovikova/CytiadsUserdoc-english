@@ -4,6 +4,18 @@ Welcome
 We are working on bringing you new content soon. Thanks for your patience.
 
 .. toctree::
+   :maxdepth: 3
+   :caption: Theory
+
+   content/start/start_common.rst
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Introduction
+
+   content/start/how_does_it_work.rst
+
+.. toctree::
    :maxdepth: 2
    :caption: Account and Finance
 
