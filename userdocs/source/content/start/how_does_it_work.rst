@@ -1,6 +1,6 @@
-====================
+================
 How it all works
-====================
+================
 
 Everybody is more or less aware of the partnership concept in the Internet marketing. But how the visitor actions are "traced" technically? Why clicks don't get lost? And how the advertiser will know where the visitors come from and whom the fees shall be paid to?
 
@@ -83,7 +83,7 @@ Generally, the affiliate link looks as follow: :code:`https://<partner’s_domai
 
 Here the :code:`<partner’s_domain>` parameter is not the advertiser's address, it's the address of the affiliate network. I.e. by clicking the link the visitor of your resource will be actually directed to the servers of the affiliate network. This is required to register this click on the affiliate network side → to control the conversion for this click → and then to pay the fee to the publisher.
 
-**********************************
+*********************************
 Where to find the affiliate links
 *********************************
 
