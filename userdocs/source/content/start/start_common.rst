@@ -1,118 +1,111 @@
-###########################
-Теоретическая вводная часть
-###########################
+===========================
+Affiliate marketing
+===========================
 
-Итак, вы решили зарабатывать на интернет-маркетинге, неплохое желание =) Все, что вам нужно, это траффик, который вы направите на рекламные ссылки, и люди, готовые платить вам за то, что вы делаете им рекламу.
+So, you decided to earn on the Digital marketing, nice choice =) All you need is the traffic to redirect to ad links and people ready to pay for advertising.
 
-В интернет маркетинге се зависит от того, насколько успешной будет реклама. Купит ли ваш посетитель тот продукт, который ему предлагают ваши партнеры. Ваши партнеры это *рекламодатели*, у которых есть продукты, которые нуждаются в рекламе или продаже. Цель рекламодателя, которую он хочет достигнуть, проводя рекламную кампанию, может быть любой. Именно **Цель** рекламодателя является ключевым фактором в партнерской программе.
+Internet-marketing depends on the success of the advertising. Will the your visitor buy the product offered by your partners? Your partners are *advertisers* who got products to be advertised and sold. Advertiser's targets for advertisement campaigns may vary. *The target* is the key component in the affiliate program.
 
-Партнерская программа (партнерка)
-       это проект рекламодателя. Это рекламное предложение, которое он выдвигает вебмастерам.
+AFFILIATE PROGRAM
+       It's the advertiser's project. It's the advertisement offer to the publishers.
 
-Публикуя партнерку, рекламодатель как бы говорит: “Господа вебмастеры, вот вам мои ссылки - пусть ваши посетители по ним кликают. А если ваши посетители еще и купят у меня что-нибудь (или закажут/заполнят анкету), то я вам заплачу за старания”. И вот вы начинаете сотрудничать. Вы выполняете условия рекламодателя, а он вам платит. Все просто, это партнерские отношения.
+By publishing the affiliate program the advertiser intends to say: "Dear publishers, here are my links, make your visitors click them. If your visitors buy something from me (or order something, or fill in the form) I'll pay for your efforts". And you start the cooperation. You fulfill the conditions of the advertiser, and the advertiser pays. It's simple, it's partner relations.
 
 ***********************************************
-Что такое партнерская сеть
+What's an affiliate network?
 ***********************************************
 
-Теперь представьте, что вам не надо гуглить до посинения, чтобы найти партнеров. Что они взяли и собрались все вместе в одном прекрасном месте, да еще и выдвинули разом свои бизнес-предложения. Эту сказку называют партнерской сетью.
+Now imagine that you don't need to be googling day and night to find partners. That they all gathered in one place, and published their offers all together. This dream is called an affiliate network.
 
 .. figure:: ../../img/start/city_n_webmaster.png
        :scale: 100 %
        :align: center
        :alt: иерархическая структура сра
 
-Партнерская сеть
-       это агрегатор партнерских программ. То есть, это много разных предложений от рекламодателей в одном месте.
+AFFILIATE NETWORK
+   It's an aggregator for affiliate programs. Many different offers from advertisers gathered in one place.
 
-Причем эти предложения могут различаться очень сильно. Все зависит от того, по какой схеме рекламодатель готов сотрудничать с вебмастером. Основная схема это **СРА**.
+And those offers may vary greatly. It depends upon the scheme of the advertiser cooperation with the publisher. The most common scheme is CPA.
 
-*******************
-СРА и многие другие
-*******************
+**************************
+CPA and many other schemes
+**************************
 
-**СРА** (англ. Cost Per Action) – цена за действие. Эту аббревиатуру используют, чтобы обозначить целый пласт интернет-маркетинга, в основе которого оплата (не за показ объявления, не за клики по нему) за действие посетителя. Это действие заранее оговорено и четко указано в условиях сотрудничества с конкретным рекламодателем (подробнее в Офферах). В качестве примера принято приводить игровые партнерские программы, где действие — это регистрация в игре, достижение уровня и тд.
+**CPA** means Cost Per Action. This abbreviation is used to identify the Internet marketing methodology based on payments that depend upon the actions of the visitor (not upon the impressions or clicks). ЭThis action will be agreed in advance in the terms of cooperation with a specific advertiser (see details in the :ref:`Offers<>`). For example let's take the game affiliate programs. Here the action will be the registration in the game, reaching a certain level, etc.
 
-В принципе, понятие **СРА** охватывает все возможные действия посетителя, но если вносить ясность и немного «сузить рамки», можно выделить разные модели работы партнерок:
+Basically, CPA covers all potential actions of the visitor, but for specialization one can define different models of the affiliate programs.
 
 .. figure:: ../../img/start/cpa_cpi.png
        :scale: 100 %
        :align: center
        :alt: иерархическая структура сра
 
-CPS (англ. Cost Per Salе)
-       плата за продажу. В этой схеме действие = продажа. То есть если рекламодатель что-то продает (а не предоставляет услуги), он вполне может использовать эту схему. Сколько платить за продажу, решает рекламодатель. Это может быть фиксированная сумма (в сети говорят «фикс») или процент от суммы продажи. В любом случае вознаграждение одно из самых крупных среди СРА-предложений, ведь до полного расчета с посетителем проходит много времени, покупки совершаются редко и много всяких других рисков.
+CPS (COST PER SALE)
+   In this scheme the action is the sale. That is, if an advertiser sells something (rather than provides some services), this scheme might be quite OK. The advertiser decides how much it will pay for a sale (and the affiliate network tries to make this fee as high as possible). This can be a fixed amount ("fix" in the network slang) or a percentage of the sale amount. Here the compensation is one of the largest among the CPA offers because complete settlement with the visitor takes a long time, purchases are not frequent, and due to many other risks.
 
-CPO (англ. Cost Per Order)
-       оплата за оформление заказа (в интернет-магазине) или за подтвержденный заказ. В этой схеме посетитель должен заполнить и отправить форму. Рекламодателями могут быть интернет-магазины, турфирмы и другие.
+CPO (COST PER ORDER)
+   Money is paid for submitting an order (in an online store) or for a confirmed order. In this scheme the visitor shall fill in and send a form. Online retailers, travel agencies, etc. may act as advertisers here.
 
-CPI (англ. Cost per Install)
-       плата за установку. Партнерки, работающие по такой системе, выплачивают вознаграждение за установку ПО, мобильных приложений (игры, каталоги) и т.д. Многие мобильные офферы работают по этой схеме.
+CPI (COST PER INSTALL)
+   The partner networks using this scheme pay for installations of software, mobile apps (games, catalogs, etc.) Most mobile offers use this scheme.
 
 CPL (англ. Cost Per Lead)
-       оплата за лид. В этой модели оплачивается заполнение регистрационной формы (сбор контактных данных потенциальных клиентов для дальнейшей работы с ними). Чаще всего применяется в онлайн-играх и казино, различных сервисах (например, тур-операторы).
+   This model means payment for filling in the registration form (contacts of leads for further processing). Most often this scheme is used for online games and casino, as well as for various services (e.g. travel agencies).
 
 *******
-Траффик
+Traffic
 *******
 
-Чтобы понять, как зарабатывают деньги в интернете, надо принять за аксиому, что там все крутится вокруг траффика. На траффике завязано все. В арбитраже главное получить этот траффик дешевле, а потом продать дороже. Монетизация сайта - это монетизация траффика с этого сайта. И все, о чем заботится вебмастер, - это качество траффика и его количество.
+To understand the ways of earning money in the Internet you need to realize that it's all about the traffic. Traffic means everything. For arbitrage the main thing is to get the traffic at a low price and to sell it at a higher price. Success of any website is measured with the traffic. The main concern of the publisher is the quality of traffic and its volume.
 
+Traffic vs visitor flow
 ========================
-Траффик vs. посещаемость
-========================
 
-Траффик
-       это объем данных в килобайтах, проходящий через сайт за определенное время.
+TRAFFI
+   Number of kilobytes passing through the website over a fixed period of time.
 
-Этот самый траффик создают посетители. Они гуляют по ресурсу, обновляя странички, а каждая страничка - запрос, пересылка данных на сервер. Кстати, в сети немного размыта граница между **Посещаемостью** и траффиком как таковым. Все потому, что траффик напрямую зависит от посещаемости, и часто разные умные персонажи называют траффиком поток посетителей на ваш сайт. В целом, это не ошибка, но разницу хорошо бы чувствовать.
+The traffic is generated by visitors. They surf the website, refresh web-pages and each web-page means a request and sending data to the server. By the way, the differentiation between the traffic and visitor flow is quite vague in the network. That's because the traffic is a direct function of visitor flow, and often traffic will mean the flow of visitors to your website. Generally, it's not a mistake. But it would be great if you understand the difference.
 
-=============
-Типы траффика
-=============
 
-Итак, траффик — это все-таки объем данных. А посещаемость – количество людей, посетивших ресурс. Траффик можно представить, как поток, который льется на ваш ресурс. А этот поток должен откуда-то выливаться J. Вот это самое «откуда» называют источниками траффика, и они делятся на группы:
+Types of traffic
+================
+
+So, traffic basically means the volume of data. While visitor flow means the number of visitors to your website. Traffic is like a flow to your website. But there must be a source for that flow. Here we come to the traffic sources, and these sources can be split into several groups:
 
 .. figure:: ../../img/start/traffic.png
        :scale: 100 %
        :align: center
        :alt: откуда прихожит траффик
 
-#. **Прямой траффик**. Это варинат, когда посетитель лично вбил название сайта в строку поиска. Или сохранил этот адрес в закладках. В любом случае он попадает к вам без посредников.
+#. **Direct traffic**. When the visitor types in the website name in the search field. Or saves the URL in favorites. In any case, the visitor comes to you directly, with no intermediaries.
+#. **E-mail traffic**. Its source is in the mailings. After receiving an email the reader clicks some link and gets to your website.
+#. **Traffic from external websites**. This group is the largest. For convenience the following major sub-sources are distinguished:
 
-#. **E-mail траффик**. Этот источник находится в почтовых рассылках. В этом случае, получив письмо, читатель нажимает на какую-то ссылку в e-mail и попадает на ваш ресурс.
+   #. **Search traffic** с сайтов-поисковиков, таких как Яндекс или Гугл.
+   #. **Social traffic** originates from the social media.
+   #. **Referral traffic**, it basically means the traffic originating from the external website. At that website another publisher published your link because he thinks your content is useful, or if you simply asked him or paid to him for such publication… As a result, the link is placed on the external website, and the traffic from this site is redirected to you, everyone is happy.
 
-#. **Траффик со сторонних сайтов**. Это самая большая группа, и для удобства в ней выделили отдельные особенно крупные источники:
+The above classification of traffic based on its source is called the **Traffic type**. Generally, knowing the traffic type we know the source of the traffic
 
-   #. **Поисковый траффик** с сайтов-поисковиков, таких как Яндекс или Гугл.
+Kinds of traffic
+================
 
-   #. **Социальный траффик** из социальных сетей.
+There's a battle for traffic in the Internet. To win that battle many different technologies were crafted to make a visitor of one website go to another website.
 
-   #. **Направленный**, или реферальный, или ссылочный… и много еще как его называют, но суть одна: это траффик, который пришел к вам со стороннего сайта. На этом сайте другой вебмастер опубликовал вашу ссылку, потому что посчитал ваш контент нужным, или вы его просто попросили, или заплатили ему… В итоге ссылка – на стороннем сайте, траффик с этого сайта идет к вам, все счастливы.
+These technologies are numerous. Usually the following technologies are distinguished:
 
-Описанную классификацию траффика по источнику называют в сети **Типом** траффика. В общем, **Тип траффика** говорит о том, откуда этот траффик к нам пришел.
+* SEO — Search Engine Optimization. Helps your website to stay in the TOPS of search engines.
+* Contextual advertising
+* Banner advertising
+* Rich Media
+* Price-Comparison (market places)
+* Coupons/Promo codes
+* Cashback
+* Clickunder / Popunder
+* Doorway or entry page
+* Incentive
 
-=============
-Виды траффика
-=============
+When you use a particular tool to redirect / generate the traffic this is called the **Traffic kinds**.
 
-На просторах сети вся борьба идет за привлечение траффика. Для этого народные умельцы придумали уйму разных технологий и инструментов, которые воздействуют на посетителя одного сайта и заставляют его перейти на другой сайт.
-
-Эти технологии очень разнообразны, и обычно выделяют следующие:
-
-       * SEO (Search Engine Optimization) поисковое продвижение или, как его еще называют, поисковая оптимизация сайта. Служит тому, чтобы Ваш сайт выходил на лучшие места, т.е. в ТОП, на сайтах-поисковиках.
-       * Контекстная реклама
-       * Баннерная реклама
-       * Rich Media
-       * Price–Comparison (прайс-площадки, маркетплейсы)
-       * Купоны/промокоды
-       * Cashback
-       * Clickunder
-       * Дорвей или входная страница
-       * Incentive (мотивированный)
-       * Toolbar
-
-Когда вы используете какой-то конкретный инструмент для перенаправления / добычи траффика, то в сети это называют **Видом** траффика.
-
-И вот здесь, как говорится, собака зарыта. Когда вы начинаете монетизировать свой траффик через рекламу, то рекламодателя интересует, с помощью чего вы будете перенаправлять траффик на его страницы. Потому что траффик, добытый разными инструментами, очень сильно отличается (примерно как ямы, вырытые лопатой или молотком). И рекламодатель часто запрещает гнать к себе траффик с помощью некоторых инструментов или разрешает использовать только те, которые он одобрил сам.
+And that's what's behind it all. When you start monetizing your traffic through advertisement, the advertiser wants to know what you are going to use to redirect traffic to its web-pages. Because the traffic produced using different tools is very different (like holes dug with a shovel or a hammer). And advertisers often restrict certain tools for traffic generation or allows using only the approved tools.
 
