@@ -19,7 +19,7 @@ This guide consists of several logical sections, and each section follows the pa
 
 After the theory each section will contain practical cases for those who hunt for problems restlessly. This part explains how to configure something or how to find it in the system interface, describing the most popular use cases. If you want to know how it works, then this section is for you.
 
-For those who are not sure what they are looking for we made a :ref:`faq-section-label`. section. Major repeated mistakes can be found in :ref:`known_issues-section-label` section. While :ref:`Agreements<agreement-section-label>` еcontain references to various legal instruments governing the cooperation with the given partner network.
+For those who are not sure what they are looking for we made a :ref:`faq-section-label`. section. Major repeated mistakes can be found in :ref:`known_issues-section-label` section. While :ref:`agreement-section-label` contain references to various legal instruments governing the cooperation with the given partner network.
 
 If you've got plenty of spare time, then you can read those documents through, however we recommend using the search function :)
 
