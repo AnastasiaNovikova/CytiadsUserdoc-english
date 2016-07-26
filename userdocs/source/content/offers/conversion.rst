@@ -1,146 +1,146 @@
-=========
-Конверсия
-=========
+==========
+Conversion
+==========
 
-Конверсия в интернет-маркетинге связана с эффективностью рекламы. И эту эффективность считают на каждом этапе достижения конечной цели. Вот мы и подобрались к ключевому моменту в понимании работы партнерских сетей и интернет-маркетинга в целом. Ниже мы разберем процесс перехода от простого просмотра объявления к целевому действию.
+In the Internet marketing conversion is all about the efficiency of advertising. And this efficiency is measured on each stage towards the ultimate goal. Here we are getting to the key point in understanding the affiliate networks and the Internet marketing in general. Below we will review the transition from the simple viewing of the ad to the target action.
 
-Итак, с чего начинается реклама? С рекламного объявления. А хорошая реклама — с хорошего объявления. А как понять, объявление хорошее или не очень? Или какое из двух лучше? Конечно, можно отправить макет объявления на `Red dot <http://en.red-dot.org/>`_, подождать отзывов и критики, переделать и представить миру Самый Лучший Дизайн по `их <http://www.red-dot.sg/en/jury/>`_ версии. Но, очевидно, мы получим, самую красивую рекламу, а не самую эффективную… 
+So, where does the advertising start? It starts from an ad. And good advertising needs good ads. How can you understand whether an ad is good? And which of any two ads is better? Of course, you can post your dummy ad to `Red dot <http://en.red-dot.org/>`_, wait for feedback, re-work it and publish The Best Design according to `their<http://www.red-dot.sg/en/jury/>`_ version. But obviously in this case we'll get the most beautiful ad, not the most efficient one…
 
-Теперь хочется задать вопрос, *что такое эффективная реклама*? Если спросить `Википедию <https://ru.wikipedia.org/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B>`_, возникает ощущение, что для расчета таких показателей, как эффективность нужен, как минимум, НИИ, а лучше два… И вы будете недалеки от истины :). Но для принятия быстрых и более-менее обоснованных решений нужны быстрые методики, которые будут понятны и рекламодателю, и вебмастеру, который продвигает рекламное предложение. Такой методикой является оценка *конверсии*. 
+Now, *what is the efficient advertising*? If you consult with the Wikipedia, you'll get the feeling that calculation of efficiency will require involvement of a think tank or even two. And you will be not far from the truth :). But for making reasonably fast and informed decisions you need fast techniques that will be clear both for the advertiser and publisher who promotes an offer. Such methodology is the assessment of *conversion*.
 
-Перед тем как вводить понятие конверсии, давайте обрисуем жизненный цикл, через который проходит **Клик** по пути к целевому действию.
+Before introducing the concept of conversion, let's outline the life cycle of a **Click** on its way to the target action.
 
 .. _click-lifecycle-label:
 
-********************
-Жизненный цикл клика
-********************
+****************
+Click Life Cycle
+****************
 
-Перед тем, как кликнуть на рекламу, посетитель сайта должен ее увидеть, посмотреть на нее. **Просмотр** — это первое знакомство. Следующий этап — **Клик** на баннер или ссылку, после которого посетителя перекинет на целевую страницу рекламы на стороне.
+Before clicking an add the visitor needs to first see it, look at it. **Viewing** is the first acquaintance. The next step is the **Click** on the banner or link to redirect the visitor to an external landing page.
 
-Целевая страница
-	Страница, на которую попадет посетитель после того, как кликнул на рекламную ссылку.
+LANDING PAGE
+   The page to which the visitor gets after clicking on the advertisement link.
 
-Несмотря на то что возможны сложные схемы разных редиректов посетителя между сайтами, в итоге он попадет на сайт рекламодателя. Здесь посетитель может зарегистрироваться, или поиграть в игру, или положить разные товары в корзину, то есть совершить некоторые действия, в которых мы заинтересованы. Часть из них — первичные действия, которые потенциально принесут доход (например, если человек оставляет контактные данные, он потенциальный клиент). Такие действия называются **Лиды**.
+Despite the fact that there may be complex schemes for various redirects of visitors between websites, in the end the visitor gets on the advertiser's website. Here the visitor may fill in a registration form, play a game, or add goods to the cart, i.e. perform some targeted actions. Part of them are primary actions with the earning potential (e.g. if a person leaves his/her contacts then he or she becomes a lead). Such actions are called **Leads**.
 
-Лид (англ. Leads) в модели СРА
-	Это первичное действие на сайте рекламодателя. Это действие — первичная цель, после которой обязательно будет продолжение =)
+LEAD IN CPA MODEL
+   This is a primary action on the advertiser's website. Such action is the primary target, and then there will be others =)
 
-И уже после того, как пользователь совершил некоторые подготовительные шаги (первичные действия), пойдут **Целевые действия**, за которые рекламодатель выставил цену в условиях оффера.
+Once the user has performed some preparatory steps (primary actions), **Target actions** that are payable by the advertiser according to the terms of the offer come into.
 
-Целевые действия в модели СРА
-	Это действие посетителя, которое было *целью* рекламодателя, за которое он платит.
+TARGET ACTIONS IN CPA MODEL
+   This is the action of the visitor being the *target* of the advertiser, the action for which he pays.
 
-Вот так, в целом, выглядит цепочка действий посетителя:
+The basic chain of the visitor's actions is as follows:
 
 .. image:: ../../img/offers/clik_life_cycle.png
        :scale: 100 %
        :align: center
-       :alt: Цепочка жизненного цикла клика
+       :alt: chain of the visitor's actions
 
 .. _conversion-label:
 
-*******************************
-Конверсия в интернет-маркетинге
-*******************************
+************************************
+Conversion in the Digital marketing
+************************************
 
-Возьмем два соседних действия, например, **Просмотр** и **Клик**. Между ними находится наше рекламное объявление. То есть от просмотра к клику пользователя «за руку» ведет именно рекламное объявление. Зная, скольких пользователей «привело» объявление, мы можем оценить его эффективность.
+For example, let's take two adjacent actions, such as **View** and **Click**. Our ad is in-between. I.e. the ad is the bridge for the user from the view to the click. If we know how many users the ad has brought to the click, we can assess its efficiency.
 
-Конверсия
-	Переход посетителя от одного действия в цепочке к соседнему.
+CONVERSION
+   Visitor proceeding from one action in the chain to the next action.
 
-Если придираться к словам, то это «свершившийся факт» перехода, но можно не цепляться к словам, лучше приведем пример, для чего нам нужно считать эти конверсии и чем они хороши.
+If we nit-pick, it's the accomplished fact of the clickthrough. But we won't nit-pick. Let's better look at the example demonstrating why we need to assess the conversions and their benefits.
 
-Итак, у нас есть объявление. Лучше два. У нас есть два рекламных объявления, и мы хотим решить, какое из них эффективнее. Разместим их на двух воображаемых сайтах и покажем первое тысяче, а второе двум тысячам воображаемых пользователей. И, не будь дураками, мы подсчитаем, сколько пользователей кликнет на рекламу. Получим вполне тривиальные цифры:
+So, we have an ad. Or better two. We've got two ads and we want to decide which one is better. Let's publish them on two imaginary websites and show the first ad to 1K of imaginary users, and the second ad to 2K of imaginary users. We can easily calculate the number of users who clicked the ad. We'll get quite common figures:
 
 .. csv-table::
-   :header: "", "Сколько пользователей просмотрело рекламу", "Сколько пользователей кликнули на объявление (количество конверсий)"
+   :header: "", "How many users viewed the ad", "How many users clicked the ad (number of conversions)"
    :widths: 5, 10, 10
 
-   "Объявление раз", 1000, 200
-   "Объявление два", 2000, 200
+   "Ad 1", 1000, 200
+   "Ad 2", 2000, 200
 
-Если посчитать, сколько посетителей из всех, кто видел объявление, кликают на объявление, то получим отношение: *Конверсии / Предыдущие действия*. Или, другими словами, сколько действий из всех становятся конверсиями. Или, другими словами, **Показатель конверсии**.
+If we calculate the share of users who clicked the ad, we'll get the following ratio: *Conversions / Previous actions*. In other words, we will know how many actions turn into conversions. In other words, we will know the **Conversion rate**.
 
-Показатель конверсии (CR, Conversion Rate)
-	Это отношение совершенных действий (конверсий) к общему количеству посетителей.
+CR, CONVERSION RATE
+   It's the ratio between the performed actions (conversions) and the total number of visitors.
 
-Можно посчитать CR просмотров в клики. Для этого случая придумали уникальное название — CTR (Click-through rate), как вы догадались, отношение кликов по рекламному материалу к просмотрам этого материала.
+We can calculate the views-to-clicks conversion rate. It is referred to as CTR (Click-through rate). As you guessed, it's the ratio between clicks on the ad and views of this ad.
 
-И, путем сложных алгебраических вычислений, мы получим это:
+Complex algebraic computing gives the following results:
 
 .. csv-table::
-   :header: "", "Сколько пользователей просмотрело рекламу", "Сколько пользователей кликнули на объявление (количество конверсий)", "CTR"
+   :header: "", "How many users viewed the ad", "How many users clicked the ad (number of conversions)", "CTR"
    :widths: 5, 10, 10, 3
 
-   "Объявление раз", 1000, 200, "20%"
-   "Объявление два", 2000, 200, "10%"
+   "Ad 1", 1000, 200, "20%"
+   "Ad 2", 2000, 200, "10%"
 
-Эти цифры очень важны, потому что по ним мы можем оценить эффективность объявления. Глядя на CTR каждого объявления, мы видим, что, несмотря на одинаковое количество кликов (200), по первому объявлению кликали в два раза чаще: 20% против 10%. Можно считать, что оно более эффективное (при прочих равных условиях, конечно же), потому что показатель конверсии у первого больше.
+These figures are very important, since they allow us to assess the ad efficiency. If we look at CTR of each ad we'll see that despite the same number of clicks (200) the first ad was clicked twice as much as the second ad: 20% VS 10%. We can assume that it is more effective (other things being equal, of course), because the conversion rate of the first ad is higher.
 
 *****************
-Воронка конверсии
+Conversion funnel
 *****************
 
-Итак, для каждого действия из :ref:`жизненного цикла клика<click-lifecycle-label>` можно оценить «конвертируемость», зная, количество посетителей *до* и *после* конверсии. Так как количество посетителей, которые совершают действия всегда уменьшается от этапа к этапу в цепочке, визуализировать принято вот так:
+Thus, for every action of the click life cycle we can assess the "convertibility", knowing the number of visitors *before* and *after* the conversion. Since the number of visitors who perform actions always decreases from stage to stage in the chain, the traditional visualization is as follows:
 
 .. image:: ../../img/offers/conversions_funnel.png
        :scale: 65 %
        :align: center
-       :alt: Воронка конверсий
+       :alt: Conversion funnel
 
-Эта диаграмма называется **Воронкой конверсии**. И для каждого действия есть показатель, который говорит, сколько пользователей «сконвертировалось» на следующий этап:
+This diagram is called the **Conversion funnel**. And there is an indicator for each action that tells you how many people were "converted" to the next step:
 
 .. csv-table::
-   :header: "", "Как называется", "Комментарии"
+   :header: "", "Term", "Comments"
    :widths: 4, 4, 10
 
-   "Просмотр → Клик", "CTR (Click-through rate)","Отношение кликов к просмотрам. Можно косвенно оценить привлекательность рекламы, ее внешний вид."
-   "Клик → Лид", "CR (Conversion Rate)","Часто называют просто конверсией, потому что этот показатель очень информативен — по нему судят, сколько пользователей, кликнувших на объявление, стали потенциальными клиентами. То есть такими клиентами, которое, в принципе, готовы воспользоваться нашим продуктом (или услугой). Показатель конверсии позволяет косвенно оценить эффективность рекламы. А поскольку он высчитывается из огромного количества исходных данных, его можно использовать для предсказания «выхлопа» разных рекламных объявлений."
-   "Лид → Целевое действие", "AR (Approval Rate)","Этот показатель нужно рассматривать в свете CPA-схем. В таких схемах всегда участвует рекламодатель, как источник «обратной связи». Он информирует нас о том, произошло все-таки целевое действие или нет. Только он может это сделать, потому что эти целевые действия отслеживаются в системе рекламодателя. Если обобщить, то рекламодатель подтверждает (англ. approve) действия. А показатель AR говорит о том, сколько **Лидов** стало **Целевыми действиями**."
+   "View → Click", "CTR (Click-through rate)","Ratio between clicks and views. You can assess the attractiveness of advertising indirectly, judging from its exterior."
+   "Click → Lead", "CR (Conversion Rate)","Often referred to as the conversion, because this figure is very informative — it means the number of users who clicked on ads and became the leads. I.e. they became customers who are in fact ready to use our product (or service). The conversion rate allows indirect assessment of the advertisement efficiency. And since it is calculated based on the huge amount of raw data, it can be used to predict the effectiveness of different ads."
+   "Lead → Target action", "AR (Approval Rate)","This figure shall be reviewed in the context of CPA schemes. In such schemes there's always the advertiser acting as the source of feedback. The advertiser tells us whether the target action was performed or not. Only the advertiser can do it, because these targeted actions are tracked in the advertiser's system. To generalize, the advertiser approves the actions. And AR figure tells us how many **Leads became** the **Target actions**."
 
 .. _macroconvercion_label:
 
-***********************
-Микро- и макроконверсии
-***********************
+****************************
+Micro- and macro conversions
+****************************
 
-Итак, мы посчитали показатели конверсий на разном этапе «обработки» клиента. Но в нашем распоряжении осталось достаточно данных и для более глубоко анализа. Вновь воображаем, что у нас есть объявление, которое мы показали 1000 воображаемых клиентов и проследим количество кликов до самого победного конца, до **Целевого действия**:
+So, we calculated the conversion metrics at different stages of the customer "processing". Still we have plenty of data for more detailed analysis. Again, we imagine that we have an ad that we showed to 1000 imaginary customers, lets trace the number of clicks to the bitter end, to the **Target action**:
 
 .. image:: ../../img/offers/conversions_funnel_numbers2.png
        :scale: 65 %
        :align: center
-       :alt: Воронка конверсий
+       :alt: Conversion funnel
 
-И для каждого этапа посчитаем показатели конверсии:
+For each stage we'll calculate the conversion rates:
 
 .. csv-table::
-   :header: "Просмотры", "CTR", "Клики", "CR", "Лиды", "AR", "Целевое действие"
+   :header: "Views", "CTR", "Clicks", "CR", "Leads", "AR", "Target action"
    :widths: 10, 10, 7, 7, 8, 8, 15
 
    1000, "20%", 200, "7.5%", 15, "13.3%", 2
 
-Вот такие конверсии, между двумя ближайшими «состояниями» пользователя, называются **Микроконверсией**. А мы возьмем и посчитаем конверсию, перескочив пару этапов, cause I can, как говорится. И получится, что конверсия **Клики-Целевые действия**:
+ВThese conversions between the two closest "states" of the user are called **Micro conversions**. Let's skip a couple of stages and calculate the conversion, cause I can as they say. We'll see that the conversion of **Clicks** into **Target actions** is
 
 	2 ÷ 200 = 1%.
 
-Такая конверсия называется **Макроконверсией**. Она применяется для приближенных расчетов: например, мы можем прикинуть, какой доход мы получим с 1000 кликов по нашему объявлению.
+Such conversion is called **Macroconversion**. It is used for approximate calculations: e.g. we can estimate the revenue from 1000 clicks on our ad.
 
-.. tip:: Доход или комиссия с одного клика называется CPC (англ. Cost Per Click).
+.. tip:: The revenue or fee from one click is called CPC (Cost Per Click).
 
-Предположим, что за каждое **Целевое действие** рекламодатель платит $5. Тогда, зная макроконверсию, можно посчитать (спрогнозировать) доход с одного клика:
+Let's assume that the advertiser pays $5 per **Target action**. Then, knowing the macroconversion we can estimate (forecast) the revenue from one click
 
 	5 × 1% = 0,05.
 
-А потом (спрогнозировать) доход и с 1000 кликов:
+And then we can estimate (forecast) the revenue from 1000 clicks too:
 
 	$0,05 × 1000 = $50
 
 ***********************
-Средняя стоимость клика
+Average cost of click
 ***********************
 
-Итак, если старательно лить трафик по офферу и подсчитывать конверсии, то в руки нам попадет очень ценные цифры — стоимость одного клика (:ref:`выше <macroconvercion_label>` мы спрогнозировали этот показатель по конверсии) и стоимость тысячи показов.
+So, if we provide the traffic for the offer diligently and calculate the conversions we'll have the highly valuable figures — the cost of one click (we made a forecast of this figure :ref:`above <macroconvercion_label>` мы спрогнозировали этот показатель по конверсии) и стоимость тысячи показов.
 
 Стоимость клика (CPC англ. Cost Per Click)
 	В модели СРА, это доход с клика, который вы получаете, если льете трафик на конкретный оффер.
