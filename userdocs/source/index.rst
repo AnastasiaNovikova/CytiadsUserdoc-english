@@ -50,3 +50,12 @@ If you've got plenty of spare time, then you can read those documents through, h
    content/statistics/table.rst
    content/statistics/graph.rst 
    content/statistics/scins.rst 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Additional Information
+
+   content/known_issues/known_issues.rst
+   content/faq/faq.rst
+   content/agreements/agree.rst
+
