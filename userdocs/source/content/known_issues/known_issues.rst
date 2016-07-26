@@ -1,6 +1,7 @@
 .. _known_issues-section-label:
 
-Известные проблемы
-==================
+============
+Known issues
+============
 
-Раздел в разработке
+We are working on bringing you new content soon. Thanks for your patience.
