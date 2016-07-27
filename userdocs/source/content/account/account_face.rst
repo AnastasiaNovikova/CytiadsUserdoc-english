@@ -1,106 +1,79 @@
 =================
-Аккаунт в системе
+System account
 =================
 
-После регистрации и ее подтверждения у каждого пользователя в системе есть свой аккаунт. Идентификатор аккаунта — это электронная почта, поэтому будьте бдительны и не забывайте ее.
+After registration and confirmation each user will get a personal account in the system. Email address is used as the account ID, so take care not to forget your email address.
 
-.. attention:: Удалить аккаунт нельзя.
+.. attention:: You cannot delete your account.
 
-Аккаунт в нашей сети открывает перед пользователем неограниченные возможности. С ним можно лить трафик на самые крутые офферы и сотрудничать со множеством проверенных партнеров. Но его прямое предназначение — хранить персональную информацию и настройки пользователя.
+An account in our system gives endless opportunities to users. It can be used to provide traffic to the best offers and work with many trusted partners. However its main purpose is to store the personal information and settings of the user
 
-Аккаунтом пользователь управляет в первом разделе интерфейса — **Офисе**. Если нужно исправить или добавить информацию, то заходите в **Личный кабинет** в **Офисе** или просто кликните на свою почту в правом верхнем углу. 
+Users can manage their accounts in the first section of the interface, i.e. **Home**. To adjust or add information go to your **Personal account** in the **Home** section or just click your email in the top right corner. 
 
 .. _account-status-label:
 
 ================
-Статус аккаунта
+Account status
 ================
 
-Можно сказать, что мы применяем градацию статусов вебмастера, чтобы управлять рисками. Как вы уже знаете, мы находимся между двух огней: рекламодателями и вебмастерами. Рекламодателям нужен качественный трафик, за который они готовы платить, а вебмастерам — много разнообразных офферов.
+Basically, we use ranking of publisher statuses to manage risks. As you know, we are positioned between a rock and a hard place: between advertisers and publishers. Advertisers need high-quality traffic and they are ready to pay for it, while publishers need multitude of various offers.
 
-Вебмастера, в свою очередь, ждут широкий ассортимент офферов, с которыми они смогут работать. А мы отвечаем головой перед теми и другими =)
+Publishers expect a wide range of offers they could work with. And we must satisfy both =)
 
-Чтобы создать комфортную атмосферу для сотрудничества вебмастеров и рекламодателей, мы используем градацию статусов.
+To establish a comfortable environment for cooperation between advertisers and publishers we use ranking of statuses.
 
-*******
-Базовый
-*******
+*************
+Basic status
+*************
 
-Вебмастер, с которым мы только что познакомились, сразу получает статус **Базовый**. Для нас это самый важный вебмастер. С одной стороны, это партнер, который не знаком с нами, и мы его толком не знаем (а вдруг он фродер?). С другой стороны, это наше будущее, которое мы не в праве игнорировать. Поэтому мы прикладываем много усилий, чтобы **Базовым** вебмастерам было комфортно с нами работать.
+A new publisher will receive the **Basic** status. It's the most important publisher for us. On the one hand, it's a partner who does not know us, and the partner whom we don't know too (he/she might be a fraudster?). On the other hand, such partner is our future development, and we just don't have a right to ignore him/her. That's why we put lots of efforts to make **Basic** publishers comfortable to work with us.
 
-Требования к трафику у этой группы самые лайтовые, главное — не фродить и практически все. Но мы понимаем, что риски у этой группы самые высокие, а мы не рискуем деньгами рекламодателей, и предлагаем **Базовым** вебмастерам ограниченный набор офферов. Такой подход защищает интересы рекламодателя и все равно позволяет **Базовым** вебмастерам зарабатывать.
+This group is offered the lightest traffic requirements, the main thing that we demand from this group is no frauding. But we also understand that this group has the highest risks, and we cant put the advertisers' money to risk, so we offer a limited set of offers to **Basic** publishers. Such an approach protects the interests of the advertiser and still allows **Basic** publishers to earn money.
 
 ***********
-Продвинутый
+Advanced
 ***********
 
-Если вебмастер приводил много качественного трафика и доказал сотрудникам компании, что нацелен на плодотворное сотрудничество, то мы с огромным удовольствием предлагаем ему еще больше возможностей для заработка, повысив статус до **Продвинутого**. Привилегий у этой группы больше, им доступно больше офферов, выплаты по которым часто выше, чем у базовых офферов (хотя у продвинутых вебмастеров все еще остается доступ к базовым офферам, и они могут продолжать работать, как и раньше). Есть и другая сторона медали: требования к трафику **Продвинутых** вебов выше, но ирга стоит свеч :). 
+If a publisher provides lots of high-quality traffic and proved to our staff that he or she seeks an effective cooperation, then it will be our pleasure to offer more earning opportunities by upgrading the publisher's status to **Advanced**. This group has more privileges, can use more offers that are often more expensive than basic offers (while advanced publishers still have access to basic offers and they can continue working as before). However, there's the other side of the story. Traffic requirements for the **Advanced** publishers are higher, but the battle is worth the blood :).
 
 ***
 VIP
 ***
 
-Следующая ступень доверия вебмастеру — это присвоение **VIP** статуса. Его добьются только высокие профессионалы своего дела. У таких вебмастеров объемы трафика намного выше, чем у предыдущих групп, они занимаются интернет-маркетингом профессионально и нацелены на высокие показатели. Для таких партнеров мы разрабатываем уникальные программы, которые будут удовлетворять обе стороны взаимодействия: и рекламодателя, и вебмастера. Чаще всего у партнеров с **VIP** статусом есть личный менеджер.
+The next level of trust to publishers is the **VIP** status. Only skilled professionals can get this status. Such publishers have much higher volumes of traffic compared to the previous groups, they are professionally involved in the Internet marketing and aim at high performance figures. We develop unique programs for such affiliates to satisfy both parties: advertisers and publishers. In most cases **VIP** partners will have a personal manager.
 
 ----------------------------------------------------------------------------
 
-Итак, статус вебмастера — это характеристика аккаунта, которая зависит от объема трафика, его качества и продолжительности сотрудничества вебмастера с нами. Чем выше статус вебмастера, тем выгоднее предложения, которыми он может воспользоваться, но тем пристальнее мы контролируем качество его трафика.
+So, publisher status is a parameter of the account that depends upon the traffic volume, quality and period of publisher cooperation with us. Publishers with higher statuses will get more profitable offers, but also we'll be more demanding to the traffic quality of publishers with higher statuses.
 
 .. _where-is-account-status-label:
 
-******************************
-Где посмотреть статус аккаунта
-******************************
+*******************************
+Where to Find an Account Status
+*******************************
 
-Статус аккаунта — это свойство, которое недоступно для редактирования вебмастеру. Оно просто отображается в разделе :menuselection:`Офис | Личный кабинет | Аккаунт` для информации.
-
-.. figure:: ../../img/account/acc_status.png
- :scale: 100 %
- :align: center
- :alt: статус аккаунта
+We are working on bringing you new content soon. Thanks for your patience.
 
 .. _what-affects-account-status-label:
 
 ******************************
-На что влияет статус аккаунта
+How Account Status Affects You
 ******************************
 
-В системе от статуса аккаунта зависит только одно — чем выше статус аккаунта, тем больше офферов для него доступно. Здесь простая арифметика: для **Базового** аккаунта доступны только **Базовые** офферы, а для **Продвинутого** аккаунта и **Базовые**, и **Продвинутые**.
-
-Если вам очень-очень понравился недоступный для вашего аккаунта оффер, в всегда можете запросить в техподдержке доступ к нему. Быстрый запрос можно отправить, нажав на кнопку :guilabel:`Подключить оффер` на :ref:`Карточке оффера<offers-cadr-label>`. Мы готовы немного отступить от правил и дать вам доступ к офферу статусом **Продвинутый**. Для этого:
-
-* Если ваш заработок не менее 10'000 рублей в течение как минимум 2-х месяцев в нашей системе. 
-* Если вы используете сайт в качестве источника трафика, то необходимо иметь минимум 100 уникальных пользователей на вашем ресурсе.
-* Если вашим источником трафика являются группы в социальных сетях, то необходимо иметь минимум 1000 уникальных посетителей в сутки.
-* В остальных случаях нам необходимо получить от вас скриншоты, подтверждающие ваш опыт работы с тем или иным типом трафика.
+We are working on bringing you new content soon. Thanks for your patience.
 
 .. _how-to-increase-account-status-label:
 
 ******************************
-Как повысить статус аккаунта
+How to Improve Account Status
 ******************************
 
-Чтобы повысить статус аккаунта вебмастеру, нам нужны доказательства того, что его работа эффективна и он сотрудничает с нами, не нарушая правил. Если вы претендуете на повышение статуса вашего аккаунта, свяжитесь с нашей техподдержкой |support|_.
+We are working on bringing you new content soon. Thanks for your patience.
 
 .. _account-settings-label:
 
 ==================
-Настройки аккаунта
+Account settings
 ==================
 
-Вебмастер может редактировать всю информацию в **Личном кабинете**, кроме:
-
-* Своего статуса
-* Адреса электронной почты
-
-.. figure:: ../../img/account/acc_personal.png
- :scale: 100 %
- :align: center
- :alt: настройки аккаунта
- 
-Из всех настроек, советуем вам обратить внимание на следующие:
-
-#. **Персональная информация | Часовой пояс** это время, которое будет установлено для аккаунта и, в первую очередь, затронет **Статитстику**. Наша статистика живет в двух часовых поясах: Москва и Сан-Паулу, если часовой пояс аккаунта будет отличаться от этих двух, то **Статистика** по умолчанию будет работать по московскому времени.
-#. **Настройка безопасности** это вкладка, на которой можно поменять пароль от аккаунта.
-#. **Настройка аккаунта** это вкладка, на которой можно поменять валюту внутреннего счета.
-#. Не забудьте нажать :guilabel:`Сохранить изменения`.
+We are working on bringing you new content soon. Thanks for your patience.
