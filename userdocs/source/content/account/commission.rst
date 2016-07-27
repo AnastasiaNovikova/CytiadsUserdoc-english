@@ -1,8 +1,8 @@
 .. _commission-interface-label:
 
-=====================
+====================
 Fee in the interface
-=====================
+====================
 
 The main goal of the publisher cooperating with an affiliate network is to get a fee for his/her job. That's why our interface is strongly customized for control and tracing of the fee. Before the traffic redirected to the affiliate links is converted in real profit, it will be transformed many times. Thus, fee tracing in an affiliate network is not an easy task, but we tried to make everything as simple as possible.
 
@@ -25,7 +25,7 @@ So, to trace the development of your fee in the interface :ref:`from click to pa
 
 #.	When a conversion occurs at the side of the advertiser, our system displays it as open leads or targets. In the :ref:`Statistics <statistics-label>` you can trace the development of :ref:`clicks→leads→actions <click-lifecycle-label>`, but before the advertiser confirms the target there's no fee as such.
 
-   In the :ref:`Statistics <statistics-label>` (e.g. in reports on **Offers**) 1 will be added to the targets counter.
+   In the **Statistics** (e.g. in reports on **Offers**) 1 will be added to the targets counter.
    
 #. After the advertiser reports to our system that the target is reached, the system will accrue a fee for the publisher (the fee amount can be found on the tab: :menuselection:`Offers | Offer Card | Payments`). Then the sequence is as follows:
 
