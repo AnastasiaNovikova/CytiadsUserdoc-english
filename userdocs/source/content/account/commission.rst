@@ -42,10 +42,3 @@ So, to trace the development of your fee in the interface :ref:`from click to pa
    #. According to the payments schedule in section :menuselection:`Office | Finance and payments | Accruals and payments` the new :ref:`payment <payout-label>` will be performed. 
 
    #. When in :menuselection:`Office | Finance and payments | Accruals and payments` :ref:`the payment <payout-label>` пstatus will be  :ref:`paid <payout-label>`, you can check the balance of your :ref:`main external account <external-acc-label>`.
-
-
-.. |circle| image:: ../../img/account/finance/circle.png
-   :scale: 50%
-   
-.. |bublic| image:: ../../img/account/finance/bublic.png
-   :scale: 50%
