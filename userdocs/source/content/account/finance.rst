@@ -2,7 +2,6 @@
 Finantial Information
 =====================
 
-
 :menuselection:`Home | Finances and payments| Accruals and Payments` payments section contains all the information related to financial aspects of cooperation with the publisher. Here you can check the balance of the :ref:`internal account <internal-acc-label>` иand track the daily accruals on :menuselection:`Finances and payments | History of Operations`. :menuselection:`Finances and payments | Exchange Rates` tab is for information only, it contains the rate of exchange used for the settlements in the system. Here you can also find the :ref:`agency accounts <agent-cabinet-label>`, that can be used for working with external ad systems.
 
 .. _from-click-to-payout-label:
@@ -34,7 +33,7 @@ So, if you started providing traffic to the offer, it does not mean anything so 
 
    .. seealso:: See more details on :ref:`payments <payout-label>` and :ref:`external accounts <external-acc-label>`.
 
-#. And then the scheduled payment date comes. After all the waiting and suffering the publisher receives the:ref:`payment <payout-label>`. ЭPayments are made according to the schedule, and the funds are transferred to the  :ref:`main external account <external-acc-label>` specified by the publisher.
+#. And then the scheduled payment date comes. After all the waiting and suffering the publisher receives the :ref:`payment <payout-label>`. Payments are made according to the schedule, and the funds are transferred to the  :ref:`main external account <external-acc-label>` specified by the publisher.
 
 .. _internal-acc-label:
 
