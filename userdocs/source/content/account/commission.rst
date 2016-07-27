@@ -26,7 +26,7 @@ So, to trace the development of your fee in the interface :ref:`from click to pa
 #.	When a conversion occurs at the side of the advertiser, our system displays it as open leads or targets. In the :ref:`Statistics <statistics-label>` you can trace the development of :ref:`clicks→leads→actions <click-lifecycle-label>`, but before the advertiser confirms the target there's no fee as such.
 
    In the :ref:`Statistics <statistics-label>` (e.g. in reports on **Offers**) 1 will be added to the targets counter.
-
+   
 #. After the advertiser reports to our system that the target is reached, the system will accrue a fee for the publisher (the fee amount can be found on the tab: :menuselection:`Offers | Offer Card | Payments`). Then the sequence is as follows:
 
    #. In :ref:`Statistics <statistics-label>` (e.g. in reports on **Offers**) the approved fee will be added to the total fee of the publisher.
@@ -35,7 +35,7 @@ So, to trace the development of your fee in the interface :ref:`from click to pa
       
    #. In parallel to the :ref:`Statistics <statistics-label>` the following section will be updated too: :menuselection:`Office | Finance and payments | Operations history`. All accruals on the :ref:`internal account <internal-acc-label>` вof the publisher from the moment of registrations are accumulated here. All operations are grouped per days, so the fee will be displayed for the day of the registration in our system.
 
-   #. Basically, the money is now earned, but the payment to the :ref:`external account <external-acc-label>` of the publisher will require certain time. During this period money will be transferred from the advertiser to our system (**Payment time**). Then the traffic inspection for cleanliness will happen (`System Hold`_). If the inspection is successful, then on the next scheduled date of payment the fees will be paid from the system to the :ref:`main external account <external-acc-label>` of the publisher.
+   #. Basically, the money is now earned, but the payment to the :ref:`external account <external-acc-label>` of the publisher will require certain time. During this period money will be transferred from the advertiser to our system (**Payment time**). Then the traffic inspection for cleanliness will happen (**System Hold**). If the inspection is successful, then on the next scheduled date of payment the fees will be paid from the system to the :ref:`main external account <external-acc-label>` of the publisher.
    
       .. attention:: Please note that for the payment to be executed to the total amount of the fees shall exceed the :ref:`minimum amount <min-payout-label>`.
       
