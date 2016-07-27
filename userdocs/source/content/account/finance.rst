@@ -2,6 +2,94 @@
 Finantial Information
 =====================
 
+
+:menuselection:`Home | Finances and payments| Accruals and Payments` payments section contains all the information related to financial aspects of cooperation with the publisher. Here you can check the balance of the :ref:`internal account <internal-acc-label>` иand track the daily accruals on :menuselection:`Finances and payments | History of Operations`. :menuselection:`Finances and payments | Exchange Rates` tab is for information only, it contains the rate of exchange used for the settlements in the system. Here you can also find the :ref:`agency accounts <agent-cabinet-label>`, that can be used for working with external ad systems.
+
+.. _from-click-to-payout-label:
+
+************************
+Click-to-payment path
+************************
+
+So, if you started providing traffic to the offer, it does not mean anything so far. Particularly it does not mean that tomorrow you're going to receive payments for leads. That's because the process of tracing the :ref:`clicks→leads→actions <click_lifecycle_label>` is rather complex. To guarantee high quality in our system we use the following scheme for working with payments:
+
+.. image:: ../../img/account/money_lifecycle.PNG
+       :align: center
+       :alt: money lifecycle
+
+#. First, the publisher publishes links on his/her sources. So far there's nothing in the :ref:`Statistics <statistics-label>`. Visitors haven't noticed the ads and thus haven't clicked on them so far.
+
+   .. seealso:: How to trace the :ref:`commission in the interface <commission-interface-label>`. 
+
+#. :ref:`Statistics <statistics-label>` is live now, so visitors view the adverts and perform some actions. So, on this stage the publisher has got the traffic related to the offer. But so far there are no *approved* lead or target, only *open* leads and targets. That's because technically we can present the information on leads or targets in the real time, but these figures have not been verified so far. I.e. those *open* leads have not been approved by the advertiser.
+   
+   .. attention:: Some advertisers submit this data with delays. See detailed information on :ref:`conversions upload <conversion-download-label>`.
+      
+#. **Approval time**. The advertiser checks the leads an targets, the achievements and their quality. Poor-quality leads are rather widespread: incomplete applications, or applications with jumbled text. Some actions can also be rejected by the advertiser: e.g. the customer canceled the delivery and did not buy the ordered goods.
+
+   .. attention:: Not all open leads will become approved leads. Open leads form the amount of the potential earning, not the guaranteed earning.
+
+#. **Payment  time**. The advertiser provides the information on *approved* and *rejected* targets. After the inspection by the advertiser *open* leads will become *approved* (or *rejected*, if the lead was not approved for some reason). Only after the above process is completed, we start the settlements with the advertiser. Now the advertiser pays money for all the approved targets, and the earned money will be transferred to the internal account of the publisher.
+#. **System hold time**. After receiving data from the advertiser we start the active processing of it. We check the traffic for fraud, and this is the task that we are rigorous about.
+
+   .. seealso:: See more details on :ref:`payments <payout-label>` and :ref:`external accounts <external-acc-label>`.
+
+#. And then the scheduled payment date comes. After all the waiting and suffering the publisher receives the:ref:`payment <payout-label>`. ЭPayments are made according to the schedule, and the funds are transferred to the  :ref:`main external account <external-acc-label>` specified by the publisher.
+
+.. _internal-acc-label:
+
+****************
+Внутренний счет
+****************
+
+.. attention:: Помните, что смена валюты внутреннего счета — не бесплатная операция. Взимается 3% комиссии.
+
+После регистрации в системе для каждого вебмастера создается внутренний счет, на котором хранится вся информация о движении средств этого вебмастера в системе. Именно на внутренний счет поступают заработанные средства и выводятся на внешние счета.
+
+.. image:: ../../img/account/internal_acc.png
+       :scale: 65 %
+       :align: center
+       :alt: внутренний счет
+
+У внутреннего счета есть три основные характеристики, которые больше всего влияют на выплаты вебмастера. Узнать их можно в разделе :menuselection:`Офис | Финансы и выплаты | Начисления и выплаты`:
+
+.. image:: ../../img/account/fin_balance.png
+       :align: right
+       :alt: характеристики внутреннего счета
+
+#. Валюта, в которой система начисляет средства на внутренний счет. Валюта, в которой вебмастеру начисляются заработанные средства, является основной характеристикой внутреннего счета. Выбрать можно любую из:
+
+   * RUB — российский рубль
+   * USD — американский доллар
+   * EUR — евро, официальная валюта еврозоны.
+   * UAH — украинская гривна
+   * KZT — казахстанский тенге
+   * CNY — китайский юань
+   * BRL — бразильский реал
+   * MXN — мексиканское песо
+   * MYR — малазийский ринггит
+   * PLN — польский злотый
+
+#. _`График выплат`. Вывод средств из системы на внешний счет — это, по сути, перечисление заработка вебмастера на его личный счет. Это происходит дважды в месяц, :guilabel:`1го и 16го` числа, без обеда и выходных. Мы называем это *графиком выплат*. Соглашаясь сотрудничать с нами, вебмастер соглашается и на этот график.
+#. Холд — индивидуальная настройка, время, в течение которого деньги нельзя вывести. Система проводит проверку трафика.
+
+******************************************
+Где узнать состояние внутреннего счета 
+******************************************
+
+В разделе :menuselection:`Офис | Финансовая информация | Начисления и выплаты` собрана вся информация о финансовом состоянии аккаунта.
+
+.. figure:: ../../img/account/account_balance.png
+       :scale: 100 %
+       :align: center
+       :alt:  личный счет начисления и выплаты
+       
+Здесь можно узнать:
+
+#. **Структуру начислений**. На диаграмме показана структура начислений по офферам.
+#. **Баланс аккаунта**. В таблице **Баланс аккаунта** содержится информация о состоянии счета вебмастера.
+#. **Все операции по счету**. Таблица содержит перечисление :ref:`выплат <payout-label>` на внешние счета вебмастера.
+
 .. _payout-label:
 
 ********
