@@ -1,3 +1,5 @@
+.. _statistics-label:
+
 ====================
 Statistics Interface
 ====================
