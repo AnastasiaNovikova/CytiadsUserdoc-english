@@ -39,56 +39,39 @@ So, if you started providing traffic to the offer, it does not mean anything so 
 .. _internal-acc-label:
 
 ****************
-Внутренний счет
+Internal account
 ****************
 
-.. attention:: Помните, что смена валюты внутреннего счета — не бесплатная операция. Взимается 3% комиссии.
+.. attention:: Remember that changing the currency of the internal account is a charged operation. The commission is 3%.
 
-После регистрации в системе для каждого вебмастера создается внутренний счет, на котором хранится вся информация о движении средств этого вебмастера в системе. Именно на внутренний счет поступают заработанные средства и выводятся на внешние счета.
+After registration in the system each publisher will receive the internal account containing all the information on the cash flow of the publisher in the system. Earned money are deposited to the internal account and then paid to the external accounts.
 
 .. image:: ../../img/account/internal_acc.png
        :scale: 65 %
        :align: center
-       :alt: внутренний счет
+       :alt: Internal account
 
-У внутреннего счета есть три основные характеристики, которые больше всего влияют на выплаты вебмастера. Узнать их можно в разделе :menuselection:`Офис | Финансы и выплаты | Начисления и выплаты`:
+An internal account has three major properties affecting the publisher's payments. The relevant information can be found in :menuselection:`Home | Finance and payments | Accruals and payments`:
 
 .. image:: ../../img/account/fin_balance.png
        :align: right
-       :alt: характеристики внутреннего счета
+       :alt: major properties of internal accoun
 
-#. Валюта, в которой система начисляет средства на внутренний счет. Валюта, в которой вебмастеру начисляются заработанные средства, является основной характеристикой внутреннего счета. Выбрать можно любую из:
+#. Currency used by the system for accruals of funds to the internal account. Currency used for accruing the publisher's earnings is the main property of the internal account. You can choose any of the following currencies:
 
-   * RUB — российский рубль
-   * USD — американский доллар
-   * EUR — евро, официальная валюта еврозоны.
-   * UAH — украинская гривна
-   * KZT — казахстанский тенге
-   * CNY — китайский юань
-   * BRL — бразильский реал
-   * MXN — мексиканское песо
-   * MYR — малазийский ринггит
-   * PLN — польский злотый
+   * RUB — Russian ruble
+   * USD — US dollar
+   * EUR — euro, official currency of the eurozone.
+   * UAH — Ukrainian hryvnia
+   * KZT — Kazakhstan tenge
+   * CNY — Chinese yuan
+   * BRL — Brazil real
+   * MXN — Mexican peso
+   * MYR — Malaysian ringgit
+   * PLN — Polish zloty
 
-#. _`График выплат`. Вывод средств из системы на внешний счет — это, по сути, перечисление заработка вебмастера на его личный счет. Это происходит дважды в месяц, :guilabel:`1го и 16го` числа, без обеда и выходных. Мы называем это *графиком выплат*. Соглашаясь сотрудничать с нами, вебмастер соглашается и на этот график.
-#. Холд — индивидуальная настройка, время, в течение которого деньги нельзя вывести. Система проводит проверку трафика.
-
-******************************************
-Где узнать состояние внутреннего счета 
-******************************************
-
-В разделе :menuselection:`Офис | Финансовая информация | Начисления и выплаты` собрана вся информация о финансовом состоянии аккаунта.
-
-.. figure:: ../../img/account/account_balance.png
-       :scale: 100 %
-       :align: center
-       :alt:  личный счет начисления и выплаты
-       
-Здесь можно узнать:
-
-#. **Структуру начислений**. На диаграмме показана структура начислений по офферам.
-#. **Баланс аккаунта**. В таблице **Баланс аккаунта** содержится информация о состоянии счета вебмастера.
-#. **Все операции по счету**. Таблица содержит перечисление :ref:`выплат <payout-label>` на внешние счета вебмастера.
+#. _`Payment schedule`. Transfer of money to the external account basically means payment of the publisher's earning to the personal account of the publisher. It happens twice per month, :guilabel:`on the 1st and 16th` day of the month, no lunch time or days off. We call it the *payment schedule*. By agreeing to work with us, the publisher agrees to that schedule too.
+#. Hold time is the individual setting reflecting the time of delay with transferring the money. The system checks the traffic.
 
 .. _payout-label:
 
