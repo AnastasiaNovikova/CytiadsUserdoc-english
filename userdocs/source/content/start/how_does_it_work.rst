@@ -100,7 +100,7 @@ Affiliate links lead to the advertiser's website. Well, yes. But where exactly d
 The target link or the Deep link is the affiliate link to a page located deeper in the website. Usually deep links are generated in the interface of the affiliate network, but the choice of the destinations for links belongs to the publisher
 
 ****************************
-How the generate a Deep link
+How to generate a Deep link
 ****************************
 
 We are working on bringing you new content soon. Thanks for your patience.

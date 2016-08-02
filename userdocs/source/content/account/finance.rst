@@ -124,7 +124,7 @@ These payments go through three positive statuses:
 
 #.	**New**. This represents that we have just recently created the withdrawal application and prepared the funds.
 #.	**On Payment**. This means that the transfer process for this application is under way, but the recipient system did not confirm the transfer just yet.
-#.	**Paid**. This status shows that the process is complete, the money is on your external account, and everything went according to plan. `System Hold`_
+#.	**Paid**. This status shows that the process is complete, the money is on your external account, and everything went according to plan. `system hold`_
 
 .. image:: ../../img/account/finance/payout_status.png
    :scale: 100 %
