@@ -13,7 +13,6 @@ Below you can find a figure that can serve as a reminder: where you can find a �
 
 So, to trace the development of your сommission in the interface :ref:`from click to payment <from-click-to-payout-label>`, you need the following:
 
-System Hold_
 
 #. Start from searching the :ref:`Statistics <statistics-label>`, here you can see all clicks on your links. Each click is the potential earning, so additional control will be quite useful. To get the latest information use the :ref:`Real Time Report <stat-realtime-label>`. 
 #.	When a conversion occurs at the side of the advertiser, our system displays it as open leads or targets. In the :ref:`Statistics <statistics-label>` you can trace the development of :ref:`clicks→leads→actions <click-lifecycle-label>`, but before the advertiser confirms the target there's no сommission as such. In the **Statistics** (e.g. in reports on **Offers**) 1 will be added to the targets counter.

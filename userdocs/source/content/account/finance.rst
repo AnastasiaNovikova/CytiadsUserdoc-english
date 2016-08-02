@@ -69,9 +69,8 @@ An internal account has three major properties affecting the publisher's payment
    * MYR — Malaysian ringgit
    * PLN — Polish zloty
 
-#. _`Payment schedule`. Transfer of money to the external account basically means payment of the publisher's earning to the personal account of the publisher. It happens twice per month, :guilabel:`on the 1st and 16th` day of the month, no lunch time or days off. We call it the *payment schedule*. By agreeing to work with us, the publisher agrees to that schedule too.
+#. Payment schedule. Transfer of money to the external account basically means payment of the publisher's earning to the personal account of the publisher. It happens twice per month, :guilabel:`on the 1st and 16th` day of the month, no lunch time or days off. We call it the *payment schedule*. By agreeing to work with us, the publisher agrees to that schedule too.
 #. _`System Hold` time is the individual setting reflecting the time of delay with transferring the money. The system checks the traffic.
-
 
 .. _payout-label:
 
@@ -125,7 +124,7 @@ These payments go through three positive statuses:
 
 #.	**New**. This represents that we have just recently created the withdrawal application and prepared the funds.
 #.	**On Payment**. This means that the transfer process for this application is under way, but the recipient system did not confirm the transfer just yet.
-#.	**Paid**. This status shows that the process is complete, the money is on your external account, and everything went according to plan.
+#.	**Paid**. This status shows that the process is complete, the money is on your external account, and everything went according to plan. `System Hold`_
 
 .. image:: ../../img/account/finance/payout_status.png
    :scale: 100 %
