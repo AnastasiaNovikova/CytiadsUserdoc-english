@@ -11,7 +11,7 @@ Below you can find a figure that can serve as a reminder: where you can find a �
 .. image:: ../../img/account/finance/long_proc.png
    :alt: сommission in the interface
 
-So, to trace the development of your сommission in the interface :ref:`from click to payment <from-click-to-payout-label>`, you need the following:
+So, to trace the development of your сommission in the interface :ref:`from click to payment <from-click-to-payout-label>`, you need `system hold`_ the following:
 
 
 #. Start from searching the :ref:`Statistics <statistics-label>`, here you can see all clicks on your links. Each click is the potential earning, so additional control will be quite useful. To get the latest information use the :ref:`Real Time Report <stat-realtime-label>`. 
