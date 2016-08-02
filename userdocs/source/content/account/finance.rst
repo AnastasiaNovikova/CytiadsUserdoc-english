@@ -50,7 +50,7 @@ After registration in the system each publisher will receive the internal accoun
        :align: center
        :alt: Internal account
 
-An internal account has three major properties affecting the publisher's payments. The relevant information can be found in :menuselection:`Home | Finance and payments | Accruals and payments`:
+An internal account has three major properties affecting the publisher's payments. The relevant information can be found in :menuselection:`Home | Finances and payments | Accruals and payments`:
 
 .. image:: ../../img/account/fin_balance.png
        :align: right
@@ -71,6 +71,8 @@ An internal account has three major properties affecting the publisher's payment
 
 #. _`Payment schedule`. Transfer of money to the external account basically means payment of the publisher's earning to the personal account of the publisher. It happens twice per month, :guilabel:`on the 1st and 16th` day of the month, no lunch time or days off. We call it the *payment schedule*. By agreeing to work with us, the publisher agrees to that schedule too.
 #. _`System Hold` time is the individual setting reflecting the time of delay with transferring the money. The system checks the traffic.
+
+`System Hold`_
 
 .. _payout-label:
 
