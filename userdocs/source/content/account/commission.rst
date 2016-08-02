@@ -9,6 +9,8 @@ The main goal of the publisher cooperating with an affiliate network is to get a
 Below you can find a figure that can serve as a reminder: where you can find a сommission before it's converted into real money in your wallet.
 
 .. image:: ../../img/account/finance/long_proc.png
+   :width: 500 px
+   :align: center
    :alt: сommission in the interface
 
 So, to trace the development of your сommission in the interface :ref:`from click to payment <from-click-to-payout-label>`, you need :ref:`system hold`_ the following:
