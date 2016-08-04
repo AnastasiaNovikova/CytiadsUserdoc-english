@@ -289,7 +289,7 @@ texinfo_documents = [
 #-------------------------------------------------GLOBAL SUBSTITUTION---------------------------------------------
 rst_epilog = """
 .. |support| image:: /img/c-ads_userdocs_support_icon_v02.png
-.. _support: https://help.cityads.com/hc/en-us/requests/new
+.. _support: https://help.cityads.com/hc/en-us/requests/new?utm_source=documentation&utm_medium=referral&utm_campaign=newticketfromdocs
 .. |br| raw:: html
    <br />
 """
