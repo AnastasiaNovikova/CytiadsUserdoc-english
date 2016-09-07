@@ -292,4 +292,6 @@ rst_epilog = """
 .. _support: https://help.cityads.com/hc/en-us/requests/new?utm_source=documentation&utm_medium=referral&utm_campaign=newticketfromdocs
 .. |br| raw:: html
    <br />
+
+.. |domain| replace:: DOM
 """

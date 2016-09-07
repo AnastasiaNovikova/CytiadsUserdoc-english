@@ -15,11 +15,8 @@ First of all, the documentation will teach you how to use the system in the most
 Structure of the guide and using tips
 -------------------------------------
 
-This guide consists of several logical sections, and each section follows the pattern of "First explain *something* and then demonstrate how *it* works". It means that each section begins with a theory. It covers the basic principles and regularities and answers the question of "What's that?"
+|domain|
 
-After the theory each section will contain practical cases for those who hunt for problems restlessly. This part explains how to configure something or how to find it in the system interface, describing the most popular use cases. If you want to know how it works, then this section is for you.
-
-For those who are not sure what they are looking for we made a :ref:`faq-section-label`. section. Major repeated mistakes can be found in :ref:`known_issues-section-label` section. While :ref:`agreement-section-label` contain references to various legal instruments governing the cooperation with the given partner network.
 
 If you've got plenty of spare time, then you can read those documents through, however we recommend using the search function :)
 
@@ -27,47 +24,22 @@ If you've got plenty of spare time, then you can read those documents through, h
    :maxdepth: 3
    :caption: Theory
 
-   content/start/start_common.rst
-   content/offers/conversion.rst
 
 .. toctree::
    :maxdepth: 3
    :caption: Introduction
 
-   content/start/how_does_it_work.rst
-   content/start/interface_overview.rst
+   content/introduction/introduction.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Account and Finance
 
-   content/account/account.rst
-   content/account/finance.rst
-   content/account/agent_cabinet.rst
-   content/account/commission.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Working with offers
 
-   content/offers/offers.rst
-   content/offers/offers_interface.rst
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Statistics
-  
-   content/statistics/statistics.rst
-   content/statistics/filter.rst
-   content/statistics/table.rst
-   content/statistics/graph.rst 
-   content/statistics/scins.rst 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Additional Information
-
-   content/known_issues/known_issues.rst
-   content/faq/faq.rst
-   content/agreements/agree.rst
 
