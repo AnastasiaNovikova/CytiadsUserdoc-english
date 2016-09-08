@@ -1,1 +1,1 @@
-../../index.rst
+../index.rst
