@@ -293,5 +293,5 @@ rst_epilog = """
 .. |br| raw:: html
    <br />
 
-.. |domain| replace:: CUSTOM-DOM
+.. |domain| replace:: CUSTOM-DOM-uped
 """

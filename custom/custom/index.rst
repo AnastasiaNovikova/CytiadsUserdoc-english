@@ -18,6 +18,28 @@ Structure of the guide and using tips
 |domain|
 
 
+If you've got plenty of spare time, then you can read those documents through, however we recommend using the search function :)
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Theory
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Introduction
+
+   content/introduction/introduction.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Account and Finance
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Working with offers
+
 
 
 
