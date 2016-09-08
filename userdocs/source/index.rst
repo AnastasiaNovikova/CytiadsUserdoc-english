@@ -15,7 +15,7 @@ First of all, the documentation will teach you how to use the system in the most
 Structure of the guide and using tips
 -------------------------------------
 
-|domain|
+|domain| some changes 
 
 
 If you've got plenty of spare time, then you can read those documents through, however we recommend using the search function :)
