@@ -33,6 +33,7 @@ If you've got plenty of spare time, then you can read those documents through, h
    :caption: Introduction
 
    content-1/content/introduction/introduction.rst
+   content-1/content/introduction/introduction
 
 .. toctree::
    :maxdepth: 2
